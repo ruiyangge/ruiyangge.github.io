@@ -19,6 +19,12 @@ title: Background
 
 <br>
 
+<div class="image-row">
+        <img src="https://ruiyangge.github.io/bachelor.jpg" class="floatpic">
+        <img src="https://ruiyangge.github.io/phd.jpg" class="floatpic">
+</div>
+
+
 <div>
 21 years old, bachelor
 <img src="https://ruiyangge.github.io/bachelor.jpg" class="floatpic">
