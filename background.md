@@ -20,10 +20,10 @@ title: Background
 <br>
 
 <div>
-<img src="https://ruiyangge.github.io/images/bachelor.jpg">
+<img src="https://ruiyangge.github.io/bachelor.jpg">
 </div>
 
 <div>
-<img src="https://ruiyangge.github.io/images/bestbuddy.jpg">
+<img src="https://ruiyangge.github.io/bestbuddy.jpg">
 </div>
 <br>
