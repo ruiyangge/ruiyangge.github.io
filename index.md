@@ -41,6 +41,6 @@ I am a data scientist and biomedical engineer with specialized training and expe
 
 <br>
 
-<div id="map-container" style="width: 72%; height: 0; padding-bottom: 56%; position: relative;">
+<div id="map-container" style="width: 50%; height: 0; padding-bottom: 56%; position: relative;">
     <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=b4f4dc&w=600&t=t&d=Iq16MNdcJ8wWlM01KA6krWGFhnd905lzoJ2F68uZa-Q&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
 </div>
