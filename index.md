@@ -42,4 +42,4 @@ I am a data scientist and biomedical engineer with specialized training and expe
 
 <br>
 
-<script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=e2834b0xeeIVTGeyg8vf3n0ln7Kyb343Ulovhlg_nIY"></script>
+<a href="https://mapmyvisitors.com/web/1bxej"  title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=Iq16MNdcJ8wWlM01KA6krWGFhnd905lzoJ2F68uZa-Q&cl=ffffff" /></a>
