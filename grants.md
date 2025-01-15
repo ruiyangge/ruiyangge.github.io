@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /awards/index.html
+permalink: /grants/index.html
 title: Grants and Distinctions
 ---
 
