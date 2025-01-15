@@ -25,12 +25,12 @@ I am a data scientist and biomedical engineer with specialized training and expe
 
 ## News and Updates
 
-- **Jan 2025**：Our Translational Neuroimaging Educational Program has been adopted as a program of the Special Projects Funding during the [SOBP Annual Meeting](https://sobp.org/). See you in Toronto April 2025!
+- **Jan 2025**: Our Translational Neuroimaging Educational Program has been awarded a Special Projects Funding for the [Society of Biological Psychiatry (SOBP) Annual Meeting](https://sobp.org/). See you in Toronto April 2025!
 - **Dec 2024**: We are pleased to announce that two of our symposium proposals have been successfully accepted for 2025 [SOBP Annual Meeting](https://sobp.org/).
 - **July 2024**: Our team has been awarded a [CIHR Project Grant](https://webapps.cihr-irsc.gc.ca/decisions/p/project_details.html?applId=501144&lang=en)!
-- **July 2024**: Our latest work on brain-age prediction was published online in [Human Brain Mapping](https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.26768)! Congratulations to Yuetong and Hao Qi for their first publication!
-- **June 2024**: Our co-authored paper was published online in [Cell Metabolism](https://www.cell.com/cell-metabolism/fulltext/S1550-4131(24)00225-0). 
-- **March 2024**: Our CentileBrain technical paper in published online in [Lancet Digital Health](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(23)00250-9/fulltext?goal=0_fb7d503c0e-6575838914-162581909)! 
+- **July 2024**: Our latest paper on brain-age prediction "Brain‐age prediction: Systematic evaluation of site effects, and sample age range and size" has been published online in [Human Brain Mapping](https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.26768)! Congratulations to Yuetong and Hao Qi for their first publication!
+- **June 2024**: Our co-authored paper "Brain responses to intermittent fasting and the healthy living diet in older adults" has been published online in [Cell Metabolism](https://www.cell.com/cell-metabolism/fulltext/S1550-4131(24)00225-0). 
+- **March 2024**: Our CentileBrain technical paper "Normative modelling of brain morphometry across the lifespan with CentileBrain: algorithm benchmarking and model optimisation" has been published online in [Lancet Digital Health](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(23)00250-9/fulltext?goal=0_fb7d503c0e-6575838914-162581909)! 
 
 
 <br>
