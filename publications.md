@@ -6,7 +6,7 @@ title: Publications
 
 > Update: Jan 2025
 
-## Selected Publications (†mentored trainees)
+## Selected Publications <small>(last 5 years; †mentored trainees)</small>
 
 - **Ruiyang Ge**, Yuetong Yu†, Yi Xuan Qi†, Yu-Nan Fan†, Shiyu Chen†, Chuntong Gao†, The ENIGMA Lifespan Working Group, Paul M. Thompson, Sophia Frangou. [Normative modelling of brain morphometry across the lifespan with CentileBrain: algorithm benchmarking and model optimisation](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(23)00250-9/fulltext?goal=0_fb7d503c0e-6575838914-162581909). <i>Lancet Digital Health</i>. 2024; (6)3:e211-e221. DOI: 10.1016/S2589-7500(23)00250-9.
 - **Ruiyang Ge**, The ENIGMA 22q11DS Working Group, Fidel Vila-Rodriguez, Carrie Bearden.[Source‐based morphometry reveals structural brain pattern abnormalities in 22q11. 2 deletion syndrome](https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.26553). <i>Human Brain Mapping</i>. 2024; 45(1):e26553. DOI: 10.1002/hbm.26553.
@@ -17,18 +17,12 @@ title: Publications
 - **Ruiyang Ge**, Xiang Liu†, David Long, Sophia Frangou, Fidel Vila-Rodriguez. [Sex effects on cortical morphological networks in healthy young adults](https://www.sciencedirect.com/science/article/pii/S1053811921002226). <i>NeuroImage</i>. 2021; 233:117945. DOI: 10.1016/j.neuroimage.2021.117945
 - **Ruiyang Ge**, Stefanie Hassel, Stephen R Arnott, Andrew D Davis, Jacqueline K Harris, Mojdeh Zamyadi, Roumen Milev, Benicio N Frey, Stephen C Strother, Daniel J Müller, Susan Rotzinger, Glenda M MacQueen, Sidney H Kennedy, Raymond W Lam, Fidel Vila-Rodriguez. [Functional connectivity of the anterior cingulate cortex predicts treatment outcome for rTMS in treatment-resistant depression at 3-month follow-up](https://www.sciencedirect.com/science/article/pii/S0278584620305108). <i>Progress in Neuro-Psychopharmacology and Biological Psychiatry</i>. 2021; 111(20):110194. DOI: 10.1016/j.pnpbp.2020.110194.
 - **Ruiyang Ge**, Jonathan Downar, Daniel M Blumberger, Zafiris J Daskalakis, Fidel Vila-Rodriguez. [Functional connectivity of the anterior cingulate cortex predicts treatment outcome for rTMS in treatment-resistant depression at 3-month follow-up](https://www.sciencedirect.com/science/article/pii/S1935861X1930419X). <i>Brain Stimulation</i>. 2020; 13(1):206-214. DOI: 10.1016/j.brs.2019.10.012.
+- **Ruiyang Ge**,  Paul Kot†, Xiang Liu†, Donna J Lang, Jane Z Wang, William G Honer, Fidel Vila‐Rodriguez. [Parcellation of the human hippocampus based on gray matter volume covariance: Replicable results on healthy young adults](). <i>Human Brain Mapping</i>. 2019; 40(13):3738-3752. DOI: 10.1002/hbm.24628.
 
-
-<br>
-
----
-
-## Ongoing Project
-
-- XXXX
-
-XXXXX.
+Full publication can be found [here](https://www.ncbi.nlm.nih.gov/myncbi/collections/mybibliography/).
 
 <br>
 
 ---
+
+
