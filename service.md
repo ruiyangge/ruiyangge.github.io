@@ -7,11 +7,11 @@ title: Service
 
 ## Administrative Activity
 - 2023 - present, Director, [Translational Neuroimaging Educational Program](https://www.translational-neuro.org)
-- 2023, Co-organizer, Annual OHBM Chinese Young Scholars Event @ 2023 Annual Meeting of the <i>[Organization for Human Brain Mapping](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=1)</i>
+- 2023, Co-organizer, Annual OHBM Chinese Young Scholars Event @ 2023 Annual Meeting of the [Organization for Human Brain Mapping](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=1)
 
 ## Editorial Service
 - 2024 – present, Associate Editor, Mental Health Science
-- 2023 – present, Guest Editor, BMC Neurology
+- 2023 – 2024, Guest Editor, BMC Neurology
 - 2023 – present, Editorial Board Member, npj Mental Health Research
 - 2022 – present, Editorial Board Member, BMC Psychiatry
 - 2019 – present, Review Editor, Frontiers in Neuroimaging; Frontiers in Neuroscience; Frontiers in Psychiatry
