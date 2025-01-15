@@ -28,10 +28,12 @@ I am a data scientist and biomedical engineer with specialized training and expe
 ## News and Updates
 
 - **Jan 2025**: Our Translational Neuroimaging Educational Program has been awarded a Special Projects Funding for the [Society of Biological Psychiatry (SOBP) Annual Meeting](https://sobp.org/2025-sobp-annual-meeting/). See you in Toronto in April 2025!
+- **Jan 2025**: Our work on personlized neuroimaging for mental health has been highlighted at [UBC Medicine PATHWAYS](https://pathwaysmagazine.med.ubc.ca/snapshots/personalized-solutions-for-youth-mental-health).
 - **Dec 2024**: We are pleased to announce that two of our symposium proposals have been successfully accepted for 2025 [SOBP Annual Meeting](https://sobp.org/2025-sobp-annual-meeting/)!
 - **July 2024**: Our team has been awarded a [CIHR Project Grant](https://webapps.cihr-irsc.gc.ca/decisions/p/project_details.html?applId=501144&lang=en)!
 - **July 2024**: Our work on brain-age prediction "Brain age prediction: Systematic evaluation of site effects, and sample age range and size" has been published online in [Human Brain Mapping](https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.26768) (5-year IF=4.7)! Congratulations to Yuetong and Hao Qi for their first 1st-author publication!
-- **June 2024**: Our co-authored paper "Brain responses to intermittent fasting and the healthy living diet in older adults" has been published online in [Cell Metabolism](https://www.cell.com/cell-metabolism/fulltext/S1550-4131(24)00225-0) (5-year IF=31.2). 
+- **June 2024**: Our co-authored paper "Brain responses to intermittent fasting and the healthy living diet in older adults" has been published online in [Cell Metabolism](https://www.cell.com/cell-metabolism/fulltext/S1550-4131(24)00225-0) (5-year IF=31.2).
+- **March 2024**: Our CentileBrain Initiative has been highlighted by the [Brain & Behavior Research Foundation](https://bbrfoundation.org/content/imaging-based-normative-model-healthy-brain-promises-significantly-advance-mental-illness).
 - **March 2024**: Our CentileBrain technical paper "Normative modelling of brain morphometry across the lifespan with CentileBrain: algorithm benchmarking and model optimisation" has been published online in [Lancet Digital Health](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(23)00250-9/fulltext?goal=0_fb7d503c0e-6575838914-162581909) (5-year IF=27.7)!
 - **Jan 2024**: Our collaboration with the ENIGMA 22q11DS Working Group "Source-based morphometry reveals structural brain pattern abnormalities in 22q11.2 deletion syndrome" has been published online in [Human Brain Mapping](https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.26553) (5-year IF=4.7)! 
 
