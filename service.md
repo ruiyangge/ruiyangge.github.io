@@ -18,9 +18,9 @@ title: Service
 - In launching, Editorial Board Member, MedLife
 
 ## Professional Associations
-- 2021 – present Member, Society of Biological Psychiatry (SOBP)
+- 2021 – present, Member, Society of Biological Psychiatry (SOBP)
 - 2021 - present, Member, Enhancing NeuroImaging Genetics through Meta-Analysis (ENIGMA) Consortium
-- 2017 – present Member, Organization for Human Brain Mapping (OHBM)
+- 2017 – present, Member, Organization for Human Brain Mapping (OHBM)
 
 ## Peer Review Activities
 - 2015 - present, regular reviewer for journals:<br>
