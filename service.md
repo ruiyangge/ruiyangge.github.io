@@ -7,6 +7,7 @@ title: Service
 
 ## Administrative Activity
 - 2023 - present, Director, [Translational Neuroimaging Educational Program](https://www.translational-neuro.org)
+- 2023, Co-organizer, Annual OHBM Chinese Young Scholars Event @ 2023 Annual Meeting of the <i>[Organization for Human Brain Mapping](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=1)</i>
 
 ## Editorial Service
 - 2024 – present, Associate Editor, Mental Health Science
