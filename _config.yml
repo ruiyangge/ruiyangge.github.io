@@ -33,11 +33,13 @@ owner:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About Me
+  - title: Home
     url: /
+  - title: Background
+    url: /background/  
   - title: Publications
     url: /publications/
-  - title: Grants&Awards
+  - title: Grants & Awards
     url: /grants/
   - title: Startups
     url: /startups/
