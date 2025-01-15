@@ -5,10 +5,8 @@ title: service
 ---
 > Update: Jan 2025
 
-## Administrative Activities
-
+## Administrative Activity
 - 2023 - present, Director, [Translational Neuroimaging Educational Program](https://www.translational-neuro.org)
-- 2021 - present, Member, Enhancing NeuroImaging Genetics through Meta-Analysis (ENIGMA) Consortium – Lifespan Working Group
 
 ## Editorial Service
 - 2024 – present, Associate Editor, Mental Health Science
@@ -20,6 +18,7 @@ title: service
 
 ## Professional Associations
 - 2021 – present Member, Society of Biological Psychiatry (SOBP)
+- 2021 - present, Member, Enhancing NeuroImaging Genetics through Meta-Analysis (ENIGMA) Consortium
 - 2017 – present Member, Organization for Human Brain Mapping (OHBM)
 
 ## Peer Review Activities
