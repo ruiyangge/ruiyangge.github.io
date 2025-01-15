@@ -4,6 +4,7 @@ permalink: /publications/index.html
 title: Publications
 ---
 
+> Update: Jan 2025
 
 ## Selected Publications (†mentored trainees)
 
