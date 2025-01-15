@@ -19,7 +19,7 @@ title: Publications
 - **Ruiyang Ge**, Jonathan Downar, Daniel M Blumberger, Zafiris J Daskalakis, Fidel Vila-Rodriguez. [Functional connectivity of the anterior cingulate cortex predicts treatment outcome for rTMS in treatment-resistant depression at 3-month follow-up](https://www.sciencedirect.com/science/article/pii/S1935861X1930419X). <i>Brain Stimulation</i>. 2020; 13(1):206-214. DOI: 10.1016/j.brs.2019.10.012.
 - **Ruiyang Ge**,  Paul Kot†, Xiang Liu†, Donna J Lang, Jane Z Wang, William G Honer, Fidel Vila‐Rodriguez. [Parcellation of the human hippocampus based on gray matter volume covariance: Replicable results on healthy young adults](). <i>Human Brain Mapping</i>. 2019; 40(13):3738-3752. DOI: 10.1002/hbm.24628.
 
-Full publication can be found [here](https://www.ncbi.nlm.nih.gov/myncbi/collections/mybibliography/).
+Full publication can be found [here](https://www.ncbi.nlm.nih.gov/myncbi/ruiyang.ge.1/bibliography/public/).
 
 <br>
 
