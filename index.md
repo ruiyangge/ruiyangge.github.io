@@ -41,35 +41,7 @@ I am a data scientist and biomedical engineer with specialized training and expe
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Just out in <a href="https://twitter.com/LancetDigitalH?ref_src=twsrc%5Etfw">@LancetDigitalH</a> , CentileBrain represents a pioneering tool offering normative models for anatomical brain measures. This new resource paves a way for enhanced detection of disorders associated with significant deviations in brain structure<a href="https://t.co/E0FBNu0xoO">https://t.co/E0FBNu0xoO</a></p>&mdash; GeRuiyang-蓋瑞洋 (@RuiyangGe) <a href="https://twitter.com/RuiyangGe/status/1760781807799378253?ref_src=twsrc%5Etfw">February 22, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <br>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Centered Map</title>
-    <style>
-        /* Full-page styling */
-        body {
-            margin: 0;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            min-height: 100vh;
-            background-color: #f4f4f4; /* Optional background color */
-        }
 
-        /* Center the map */
-        #map-container {
-            width: 100%; /* Adjust width as needed */
-            max-width: 600px; /* Set maximum width */
-            height: 400px; /* Fixed height */
-        }
-    </style>
-</head>
-<body>
-    <div id="map-container">
-        <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=Iq16MNdcJ8wWlM01KA6krWGFhnd905lzoJ2F68uZa-Q&cl=ffffff&w=a"></script>
-    </div>
-</body>
-</html>
-
+<div id="map-container" style="width: 100%; height: 0; padding-bottom: 56%; position: relative;">
+    <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=Iq16MNdcJ8wWlM01KA6krWGFhnd905lzoJ2F68uZa-Q&cl=ffffff&w=a"></script>
+</div>
