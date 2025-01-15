@@ -4,56 +4,19 @@ permalink: /background/index.html
 title: Background
 ---
 
-## Motivation
+> Update: Jan 2025
 
-As a youth from southern Fujian (Hokkien), entrepreneurial spirit runs in my family's and my own bones. From a young age, we were instilled with the belief that one must become their own "boss" and setup their own business. My aspiration is to become a serial entrepreneur.<br>
+## Employment
 
----
+- 2021 - present: **Research Associate**, Department of Psychiatry, UBC, Canada <br> Advisor: Dr. Sophia Frangou
+- 2016 - 2020: **Postdoctoral Research Fellow**, Department of Psychiatry, UBC, Canada <br> Advisor: Dr. Fidel Vila-Rodriguez<br>
 
-## OpenIoT Team
 
-During undergraduate, my two roommates and I co-founded a tech group called OpenIoT. With an entrepreneurial spirit in technology, we participated in numerous innovation and entrepreneurship competitions. As of 2024, the OpenIoT team has grown to include 28 official members and has accumulated a total of six national-level competition awards and over **$20000 funding**.<br>
+## Education
 
-## Team News
+- 2010 - 2015: **Doctorate**, Computer Science, School of Artificial Intelligence & State Key Laboratory of Cognitive Neuroscience and Learning, Beijing Normal University, Beijing, China. <br>Advisors: Drs. Li Yao and Zhiying Long
+- 2006 - 2010: **Bachelor**, Biomedical Engineering, School of Computer and Information Technology, Beijing Jiaotong University, Beijing, P.R. China.
 
-- **Jan 2024：**Our team won the Finalist Award (Top 3%) in China International College Students’ Innovation Competition.
-- **Sep 2023：**Our work [DefenderIoT](https://fzuiot.site/) has been reported by [Youth of FZU (in Chinese)](https://mp.weixin.qq.com/s/MF2NJQtEHsVwsm8Ym-l7Gg).
-- **Aug 2023：**Our team won the Best Technology Award (Top 1%) in National Youth Science Innovation Project Competition.
-- **June 2023：**Our team won a national undergraduate research training grant (about $3000).
-- **May 2023：**If you are interested in the IoT, robotics, or AIGC, welcome to [join us!](https://fzuiot.site/english/)<br>
-
----
-
-## Our Fundings
-
-- Project: DefenderIoT — Leading the New Generation of Industrial Inspection<br>**Funding $2000** (Grant No. 20230357)<br>China International College Students’ Innovation Competition Award<br>Project Leader & Product Manager (2024)<br><br>
-- Project: Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot<br>**Funding $3000** (Grant No. 202310386056)<br>China National Undergraduate Innovation and Entrepreneurship Training Program<br>Project Leader & Student Investigator (2023-2024)<br><br>
-- Project: Community Monitoring System based on Smart IoT and Inspection Vehicle<br>**Funding $1000** (Grant No. 2023080208)<br>National Youth Science Innovation Project Competition Award<br>Project Leader & Student Investigator (2023)<br><br>
-
----
-
-## Team Members
-
-- **Co-founders:** Hanlin Cai, Jiaqi Hu, Zheng Li
-- **Members @2020:** Linshi Li, Yuchen Fang, Shuying Liu, Xiang Fang, Jiankun Li, Xinguo Wang, Miaolan Zhou, Chaoyue Chen
-- **Members @2021:** Wenzhuo Fan, Jiacheng Huang, Xun Sun, Yujie Jiang, Zhongheng Sun, Yuxuan Zheng, Hongming Chen
-- **Members @2022:** Wenjing Chen, Roubing Yao, Yuxin Luo, Han Huang, Yang Lu, Jiali Su, Yanzhuo Gao, Yuzhuo Shi
-- **Members @2023:** [Join us!](https://fzuiot.site/english/)<br>
-
----
-
-## Some Group Photos
-
-> Our group website: [https://fzuiot.site/](https://fzuiot.site/)
-
-<div>
-<img src="https://caihanlin.com/images/teams/teams1.jpg">
-</div>
-<br>
-
-<div>
-<img src="https://caihanlin.com/images/teams/teams2.jpg">
-</div>
 <br>
 
 <div>
