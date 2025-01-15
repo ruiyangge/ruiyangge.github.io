@@ -5,10 +5,6 @@ layout: page
 ## Ruiyang Ge (蓋瑞洋)
 
 <img src="https://ruiyangge.github.io/ruiyangge.jpg" class="floatpic">
-
-
-
-
 I am a data scientist and biomedical engineer with specialized training and expertise in computational psychiatry and neuroimaging. I am affiliated with the [Department of Psychiatry](https://psychiatry.ubc.ca/) and the [Djavad Mowafaghian Centre for Brain Health](https://www.centreforbrainhealth.ca/) at the University of British Columbia.
 
 ---
