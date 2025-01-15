@@ -32,6 +32,7 @@ title: Service
   Brain Structure and Function;<br>
   Cerebral Cortex;<br>
   Computational and Mathematical Methods in Medicine;<br>
+  European Psychiatry;<br>
   Frontiers in Psychiatry;<br>
   Human Brain Mapping;<br>
   IEEE Journal of Biomedical and Health Informatics;<br>
