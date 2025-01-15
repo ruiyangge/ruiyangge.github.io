@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /service/index.html
-title: service
+title: Service
 ---
 > Update: Jan 2025
 
