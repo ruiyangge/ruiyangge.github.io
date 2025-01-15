@@ -5,8 +5,7 @@ layout: page
 <img src="https://ruiyangge.github.io/ruiyangge.jpg" class="floatpic">
 
 ## Ruiyang Ge (蓋瑞洋), PhD
-I am a data scientist and biomedical engineer with specialized training and expertise in computational psychiatry and neuroimaging. I am affiliated with the [Department of Psychiatry](https://psychiatry.ubc.ca/) and the [Djavad Mowafaghian Centre for Brain Health](https://www.centreforbrainhealth.ca/) at the University of British Columbia. I develop and implement advanced computational models to support precision diagnostics and interventions, and lead an educational program to advance the translational use of neuroimaging techniques in brain health.
-
+I am a data scientist and biomedical engineer with specialized training and expertise in computational psychiatry and neuroimaging. I am affiliated with the [Department of Psychiatry](https://psychiatry.ubc.ca/) and the [Djavad Mowafaghian Centre for Brain Health](https://www.centreforbrainhealth.ca/) at the University of British Columbia.
 
 
 ---
@@ -21,7 +20,7 @@ I am a data scientist and biomedical engineer with specialized training and expe
 - Precision Psychiatry
 - Therapeutic Neuromodulation
 
-I am a data scientist and biomedical engineer with specialized training and expertise in computational psychiatry and neuroimaging. My research is to integrate data science, artificial intelligence, and neuroimaging, to facilitate new discoveries in the pathophysiology of mental illness and inform clinical decision making.
+I am a data scientist and biomedical engineer with specialized training and expertise in computational psychiatry and neuroimaging. My research is to integrate data science, artificial intelligence, and neuroimaging, to facilitate new discoveries in the pathophysiology of mental illness and inform clinical decision making. With a strong emphasis on the translational applications of neuroimaging, I develop and implement advanced computational models to support precision diagnostics and interventions, and lead an educational program to advance the translational use of neuroimaging techniques in brain health.
 
 
 ---
@@ -40,3 +39,6 @@ I am a data scientist and biomedical engineer with specialized training and expe
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Just out in <a href="https://twitter.com/LancetDigitalH?ref_src=twsrc%5Etfw">@LancetDigitalH</a> , CentileBrain represents a pioneering tool offering normative models for anatomical brain measures. This new resource paves a way for enhanced detection of disorders associated with significant deviations in brain structure<a href="https://t.co/E0FBNu0xoO">https://t.co/E0FBNu0xoO</a></p>&mdash; GeRuiyang-蓋瑞洋 (@RuiyangGe) <a href="https://twitter.com/RuiyangGe/status/1760781807799378253?ref_src=twsrc%5Etfw">February 22, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<br>
+
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=Iq16MNdcJ8wWlM01KA6krWGFhnd905lzoJ2F68uZa-Q&cl=ffffff&w=a"></script>
