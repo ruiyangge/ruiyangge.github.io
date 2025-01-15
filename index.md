@@ -13,10 +13,10 @@ I am a data scientist and biomedical engineer with specialized training and expe
 
 ## Research Interests
 - Computational Psychiatry
-- Neuroimaging
 - Neuroinformatics
 - Machine Learning
 - Youth Mental Health
+- Personalized Neuroimaging
 - Precision Psychiatry
 - Therapeutic Neuromodulation
 
