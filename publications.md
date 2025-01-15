@@ -6,13 +6,10 @@ title: Publications
 
 > (†: equal contribution, ~: corresponding author)
 
-## Conference Paper
+## Selected Publications (†mentored trainees)
 
-- [Securing Billion Bluetooth Low Energy Devices Using Cyber-Physical Analysis and Deep Learning Techniques](https://www.researchgate.net/publication/384046364/)<br>**Hanlin Cai**†, Yuchen Fang†, Jiacheng Huang, Honglin Liao, Meng Yuan, Zhezhuang Xu~<br>The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2024), Undergraduate Consortium.<br>Barcelona, Spain. August, 2024.<br>
+- [Normative modelling of brain morphometry across the lifespan with CentileBrain: algorithm benchmarking and model optimisation](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(23)00250-9/fulltext?goal=0_fb7d503c0e-6575838914-162581909)<br>**Ruiyang Ge**, Yuetong Yu†, Yi Xuan Qi†, Yu-Nan Fan†, Shiyu Chen†, Chuntong Gao†, The ENIGMA Lifespan Working Group, Paul M. Thompson, Sophia Frangou. Lancet Digital Health. 2024; (6)3:e211-e221. DOI: 10.1016/S2589-7500(23)00250-9<br>
 
-- [Poster: Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://dl.acm.org/doi/abs/10.1145/3643832.3661434)<br>**Hanlin Cai**, Yuchen Fang, Jiacheng Huang, Meng Yuan, Zhezhuang Xu<br>The 22nd ACM International Conference on Mobile Systems, Applications, and Services (MobiSys 2024), Poster Session.<br>Tokyo, Japan. June, 2024.
-
-- SeeMusic: XR-Enhanced Musical Language Training Application for Hearing-impaired Children<br>Linshi Li, Xianjinghua Chen, Yutian Qin and Hanlin Cai~<br>The 14th IEEE International Conference on Educational and Information Technology (ICEIT 2025).<br>Guangzhou, China. March, 2025.
 
   <br>
 
