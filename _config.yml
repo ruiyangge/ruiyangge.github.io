@@ -1,26 +1,23 @@
-title: Hanlin Cai
+title: Ruiyang Ge
 # tagline: Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.
 # description: Two roads diverged in woods, I took the one less traveled by.
 #Comment out url when working locally to resolve base urls correctly
-url: https://caihanlin.com
+url: https://ruiyangge.github.io
 
 # Owner/author information
 owner:
-  name: Hanlin Cai
-  avatar: hanlin.jpg
+  name: Ruiyang Ge
+  avatar: ruiyangge2.jpg
   # bio: Two roads diverged in woods, I took the one less traveled by.
-  email: hanlin.cai@ieee.org
+  email: ruiyang.ge@ubc.ca
   cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: lancecai2002
-  github: GuangLun2000
-  linkedin: hanlincai
+  twitter: RuiyangGe
+  github: ruiyangge
+  linkedin: ruiyangge
   scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
   bilibili: 594030035
-  researchgate: https://www.researchgate.net/profile/Hanlin-Cai
-  zhihu: https://www.zhihu.com/people/chlire
-  # facebook: caihanlin2002
-  # instagram: lancecai2002
+  researchgate: https://www.researchgate.net/profile/Ruiyang-Ge
   # lastfm:
   # tumblr:
   # For Google Authorship https://plus.google.com/authorship
@@ -42,15 +39,13 @@ links:
     url: /publications/
   - title: Awards
     url: /awards/
-  - title: Hobbies
-    url: /hobbies/
   - title: Startups
     url: /startups/
   - title: Blogs
     url: /blogs/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: China/Beijing
+timezone: Canada/Vancouver
 future: true
 highlighter: rouge
 # markdown: kramdown
@@ -79,7 +74,7 @@ kramdown:
 
 # disqus settings:
 disqus:
-  shortname: lancecai
+  shortname: ruiyangge
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
