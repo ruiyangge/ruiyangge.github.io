@@ -5,7 +5,7 @@ layout: page
 <img src="https://ruiyangge.github.io/ruiyangge.jpg" class="floatpic">
 
 ## Ruiyang Ge (蓋瑞洋), PhD
-I am a data scientist and biomedical engineer with specialized training and expertise in computational psychiatry and neuroimaging. I am affiliated with the [Department of Psychiatry](https://psychiatry.ubc.ca/) and the [Djavad Mowafaghian Centre for Brain Health](https://www.centreforbrainhealth.ca/) at the University of British Columbia.
+I am a data scientist and biomedical engineer with specialized training and expertise in computational psychiatry and neuroimaging. I am affiliated with the [Department of Psychiatry](https://psychiatry.ubc.ca/) and the [Djavad Mowafaghian Centre for Brain Health](https://www.centreforbrainhealth.ca/) at the University of British Columbia. I develop and implement advanced computational models to support precision diagnostics and interventions, and lead an educational program to advance the translational use of neuroimaging techniques in brain health.
 
 
 
@@ -21,7 +21,7 @@ I am a data scientist and biomedical engineer with specialized training and expe
 - Precision Psychiatry
 - Therapeutic Neuromodulation
 
-I am a data scientist and biomedical engineer with specialized training and expertise in computational psychiatry and neuroimaging. My research is to integrate data science, artificial intelligence, and neuroimaging, to facilitate new discoveries in the pathophysiology of mental illness and inform clinical decision making. With a strong emphasis on the translational applications of neuroimaging, I develop and implement advanced computational models to support precision diagnostics and interventions, and lead an educational program to advance the translational use of neuroimaging techniques in brain health.
+I am a data scientist and biomedical engineer with specialized training and expertise in computational psychiatry and neuroimaging. My research is to integrate data science, artificial intelligence, and neuroimaging, to facilitate new discoveries in the pathophysiology of mental illness and inform clinical decision making.
 
 
 ---
