@@ -20,17 +20,18 @@ title: Background
 <br>
 
 <div>
-21 years old, bachelor
-<img src="https://ruiyangge.github.io/bachelor.jpg" class="floatpic">
+21 years old, bachelor<br>
+<img src="https://ruiyangge.github.io/bachelor.jpg">
 </div>
 <br>
+<br>
+
 <div>
-26 years old, phd
-<img src="https://ruiyangge.github.io/phd.jpg" class="floatpic">
+26 years old, PhD<br>
+<img src="https://ruiyangge.github.io/phd.jpg">
 </div>
 <br>
-<div>
-best buddy
-<img src="https://ruiyangge.github.io/bestbuddy.jpg" class="floatpic">
-</div>
+
+
+
 <br>
