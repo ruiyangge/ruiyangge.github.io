@@ -2,7 +2,7 @@
 layout: page
 ---
 
-## Ruiyang Ge (盖瑞洋)
+## Ruiyang Ge (蓋瑞洋)
 
 <img src="https://ruiyangge.github.io/ruiyangge.jpg" class="floatpic">
 
