@@ -5,7 +5,7 @@ title: Talks
 ---
 > Update: Jan 2025
 
-Please see my [CV](https://github.com/ruiyangge/ruiyangge.github.io/blob/3a8ba6ede4aa06be3b5c083c2abdcf74af5eba33/file/CV%20Jan%202025.pdf) for an up-to-date list.
+Please see my [CV](https://drive.google.com/file/d/10FFTr2lbn81pHSaw2r7xNfhODr1nfW_1/view) for an up-to-date list.
 
 - 04/2025 (planned), "The Link Between Brain Development and Trajectories of Youth Mental Health: Initial Insights from Longitudinal Community and Clinical Cohorts"
   The 80th Society of Biological Psychiatry Annual Meeting, Toronto, Ontario, Canada
