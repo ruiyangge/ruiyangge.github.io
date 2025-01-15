@@ -3,7 +3,7 @@ layout: page
 permalink: /service/index.html
 title: service
 ---
-
+> Update: Jan 2025
 ## Administrative Activities
 
 - 2023 - present, Director, [Translational Neuroimaging Educational Program](https://www.translational-neuro.org)
