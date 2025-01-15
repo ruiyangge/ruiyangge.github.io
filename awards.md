@@ -1,29 +1,27 @@
 ---
 layout: page
 permalink: /awards/index.html
-title: Awards
+title: Grants and Distinctions
 ---
 
-> Update: 20th Sep 2024
+> Update: Jan 2025
 
-## Scholarships
+## Grants
 
-- June 2024：**KDD-24 Undergraduate Scholarship** ($1000)<br>Only 21 undergraduates are selected around the world
-- Dec 2023：**AAAI-24 Undergraduate Scholarship** ($5000)<br>Only 18 undergraduates are selected around the world
-- Aug 2023：Innovation Scholarship ($1400)<br>One of the highest undergraduate awards at FZU
-- May 2023：XiamenAir Scholarship ($600)<br>
-- June 2024：Best Final Year Project Award of Maynooth (€500)
-- Oct 2023：Best Academic Performance of Maynooth (€100)
-- Oct 2022：Best Course Project Award of Maynooth (€100)
-- First Prize Scholarship of MIEC ($2100, **Four times**)<br>Combined degree scholarship between FZU and Maynooth<br>
+- Jan 2025: **Special Project Funding, The Society for Biological Psychiatry (SOBP)** ($2,000 USD) <br> Title: Translational Neuroimaging Educational Program <br>Role: Principal Investigator
+- July 2024：**Canadian Institutes of Health Research Project Grant** ($504,901 CAD)<br> Title: Network-Brain Age: Enhancing spatial precision of accelerated aging. <br>Role: Co-Investigator<br>
+- Dec 2023：**Stimulus-Child and Youth Mental Health Grant, UBC Department of Psychiatry, in partnership with the UBC Institute of Mental Health and BC Children’s Hospital** ($18,000 CAD)<br>Title: Individual-Level Deviations from Normative Neuroanatomical Models in Youth with Mood Disorders <br>Role: Principal Investigator
 
-## Competitions
 
-- Jan 2024：Finalist of China International College Students’ Innovation Competition (Top 3%)
-- Aug 2023：Best Technology Award in National Youth Science Innovation Project Competition (Top 1%)
-- Aug 2023：Second Prize in National Collegiate Internet of Things Technology and Application Competition (Top 5%)
-- May 2023：Finalist Award in Mathematical Contest In Modeling (Top 1% of all 20508 paper)
-- Nov 2022：First Prize (Provincial Level) in China Undergraduate Mathematical Contest in Modeling (Top 8%)
-- June 2022：**Championship** of 100-meter Freestyle Swimming Competition of Fuzhou University<br>
+## Distinctions and Awards
+
+- Apr 2022：Travel Fellowship Award – Early Career Investigator Program, The Society for Biological Psychiatry, $2,000 USD
+- Jul 2020: Marshall Fellowship, Institute of Mental Health, UBC, $75,000 CAD
+- Feb 2019：Outstanding Poster Award, The 3rd International Brain Stimulation Conference, $500 USD
+- 2019 - 2020: Innovative Fund Trainee Award, Djavad Mowafaghian Centre for Brain Health, UBC, $10,000 CAD
+- 2014 - 2015: National Scholarship for Distinguished Graduates, China, 30,000 CNY
+- 2013 - 2014: First Prize Academic Scholarship, Beijing Normal University, China, 15,000 CNY
+- 2012 - 2013: Academic Award, State Key Laboratory of Cognitive Neuroscience and Learning, Beijing Normal University, China, 10,000 CNY
+- 2007 - 2010: Academic Excellence Scholarship, Beijing Jiaotong University, China, 4,800 CNY
 
 <br>
