@@ -8,33 +8,31 @@ layout: page
 
 Here is **Ruiyang Ge (盖瑞洋)**.<br>
 
-I am a research scientist in the Department of Psychiatry at the [University of British Columbia](https://www.ubc.ca/). 
-
-If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - ruiyang.ge [at] ubc.ca
-
-**<font color="#990000"> Thank you!</font>**
+I am a data scientist and biomedical engineer with specialized training and expertise in computational psychiatry and neuroimaging. I am affiliated with the [Department of Psychiatry](https://psychiatry.ubc.ca/) and the [Djavad Mowafaghian Centre for Brain Health](https://www.centreforbrainhealth.ca/) at the University of British Columbia.
 
 ---
 
 ## Research Interests
 
-- [Internet of Everything](https://scholar.google.com/citations?view_op=search_authors&hl=zh-CN&mauthors=label:internet_of_everything)
-- Molecular Communication
-- Wireless Communication
-- AI-powered Communication
+- Neuroimaging
+- Neuroinformatics
+- ComputationalPsychiatry
+- Youth Mental Health
+- Therapeutic Neuromodulation
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the Machine Learning and its applications in Industrial IoT. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+I am a data scientist and biomedical engineer with specialized training and expertise in computational psychiatry and neuroimaging. My research is to integrate data science, artificial intelligence, and neuroimaging, to facilitate new discoveries in the pathophysiology of mental illness and inform clinical decision making.
 
 ---
 
 ## News and Updates
 
-- **June 2024**：Very excited to be selected as [KDD UC Scholar](https://kdd2024.kdd.org/undergraduate-consortium/). See you in Spain!
-- **May 2024：**My bachelor thesis won the Annual Best Thesis Award (Top 1/300).
-- **April 2024：**Our work *BLEGuard* has been accepted to [MobiSys 2024](https://www.sigmobile.org/mobisys/2024/) as a poster paper. See you in Japan!
-- **March 2024：**Very excited to get a MPhil offer from Engineering department at Cambridge University!
-- **Dec 2023：**Very excited to be selected as [AAAI UC Scholar](https://aaai.org/aaai-conference/undergraduate-consortium-program/). See you in Canada!
-- **Jun 2022：**Started research programme at [Cambridge AI Group](https://www.cl.cam.ac.uk/research/ai/), advised by Prof. Pietro Liò.
+- **Jan 2025**：Our Translational Neuroimaging Educational Program has been adopted as a program of the Special Projects Funding during the [SOBP Annual Meeting](https://sobp.org/). See you in Toronto April 2025!
+- **Dec 2024**: We are pleased to announce that two of our symposium proposals have been successfully accepted for 2025 [SOBP Annual Meeting](https://sobp.org/).
+- **July 2024**: Our team has been awarded a [CIHR Project Grant](https://webapps.cihr-irsc.gc.ca/decisions/p/project_details.html?applId=501144&lang=en)!
+- **July 2024**: Our latest work on brain-age prediction was published online in [Human Brain Mapping](https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.26768)! Congratulations on Yuetong and Hao Qi for their hard work!
+- **June 2024**: Our co-authored paper was published online in [Cell Metabolism](https://www.cell.com/cell-metabolism/fulltext/S1550-4131(24)00225-0). 
+- **March 2024**: Our CentileBrain technical paper in published online in [Lancet Digital Health](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(23)00250-9/fulltext?goal=0_fb7d503c0e-6575838914-162581909)! 
+
 
 <br>
 
