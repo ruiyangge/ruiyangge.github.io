@@ -20,11 +20,10 @@ title: Background
 <br>
 
 <div>
-<img src="https://caihanlin.com/images/teams/teams.jpg">
+<img src="https://ruiyangge.github.io/images/bachelor.jpg">
 </div>
-<br>
 
 <div>
-<img src="https://caihanlin.com/images/teams/teams4.jpg">
+<img src="https://ruiyangge.github.io/images/bestbuddy.jpg">
 </div>
 <br>
