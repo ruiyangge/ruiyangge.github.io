@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://github.com/ruiyangge/ruiyangge.github.io/blob/main/images/ruiyangge.jpg" class="floatpic">
+<img src="https://ruiyangge.github.io/ruiyangge.jpg" class="floatpic">
 
 Here is **Ruiyang Ge (盖瑞洋)**.<br>
 
