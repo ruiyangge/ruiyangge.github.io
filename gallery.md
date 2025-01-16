@@ -11,7 +11,7 @@ title: Gallery
 
 ### Bart is a 4-year old furiend
 
-### I came across this furiend in the Facebook page of <i>[Endless Pawsabilities Rescue Society](https://www.facebook.com/endlesspawsabilitiesrescuesociety)</i>. I vividly remember my heart melting the moment I saw his photos.
+### I came across this sweet furiend in the Facebook page of <i>[Endless Pawsabilities Rescue Society](https://www.facebook.com/endlesspawsabilitiesrescuesociety)</i>. I vividly remember my heart melting the moment I saw his photos.
 <div>
 <img src="https://raw.githubusercontent.com/ruiyangge/ruiyangge.github.io/main/images/bart_start.jpg">
 </div>
