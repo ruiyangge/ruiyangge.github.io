@@ -77,7 +77,7 @@ title: Gallery
 </div>
 <br>
 
-### Bart sort of loves his bed someone bought for him
+### Bart sort of loves the bed his human bought for him
 <div>
 <img src="https://raw.githubusercontent.com/ruiyangge/ruiyangge.github.io/main/images/cat5.jpg">
 </div>
