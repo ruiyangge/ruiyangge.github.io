@@ -7,10 +7,9 @@ title: Gallery
 
 > Please support the [Endless Pawsabilities Rescue Society](https://www.endless-pawsabilities.org/?fbclid=IwY2xjawH1PbRleHRuA2FlbQIxMAABHZA0EOM4NK2fYjd45nllmHlLPLURq49KQFQzVvLOES8_rlIwy5LvzyiBJA_aem_mUPbPz9B0Di2JbS2aFD3AQ) and [Richmond Regional Animal Protection Society Cat Sanctuary](https://catsanctuary.ca/)!
 
-## I share photos of my best furiend Bart Ge from time to time
+## My best furiend Bart Ge
 
 ### Bart is a 4-year old furiend
-
 
 ### I came across this furiend in the Facebook page of <i>[Endless Pawsabilities Rescue Society](https://www.facebook.com/endlesspawsabilitiesrescuesociety)</i>. I vividly remember my heart melting the moment I saw his photos.
 <div>
