@@ -29,10 +29,10 @@ Please see my [CV](https://drive.google.com/file/d/10FFTr2lbn81pHSaw2r7xNfhODr1n
   MR Seminar Series, UBC Department of Radiology, Vancouver, BC, Canada<br>
   Role: **Speaker**<br>
 - **12/2023**, **"CentileBrain Models: An Introduction"** <br>
-  [The Translational Neuroimaging Educational Program](https://www.translational-neuro.org/)<br>
+  [Translational Neuroimaging Educational Program](https://www.translational-neuro.org/)<br>
   Role: **Moderator and speaker**<br>
 - **06/2023**, **"Mapping Changes Of Human Brain Structures Across The Human Lifespan 绘制从儿童到老年大脑结构的变化"** (virtual)<br>
-  The [4th Organization of Human Brain Mapping (OHBM) Multilingual Kids Live Review – Mandarin Section](https://ohbm-dic.github.io/kidsreview/2023/)<br>
+  [The 4th Organization of Human Brain Mapping (OHBM) Multilingual Kids Live Review – Mandarin Section](https://ohbm-dic.github.io/kidsreview/2023/)<br>
   Role: **Speaker**<br>
 - **06/2023**, **"Normative Modeling With CentileBrain: Algorithm Benchmarking And Model Optimization"** <br>
   Lightning talk @ [UBC Department of Psychiatry Research Day](https://psychiatry.ubc.ca/2023-ubc-psychiatry-annual-research-day/), Vancouver, BC, Canada<br>
