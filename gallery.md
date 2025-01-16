@@ -12,13 +12,13 @@ title: Gallery
 ### Bart is a 4-year old furiend
 
 
-### I came across this furiend in the Facebook page of [Endless Pawsabilities Rescue Society](https://www.facebook.com/endlesspawsabilitiesrescuesociety). I vividly remember my heart melting the moment I saw his photos.
+### I came across this furiend in the Facebook page of <i>[Endless Pawsabilities Rescue Society](https://www.facebook.com/endlesspawsabilitiesrescuesociety)</i>. I vividly remember my heart melting the moment I saw his photos.
 <div>
 <img src="https://raw.githubusercontent.com/ruiyangge/ruiyangge.github.io/main/images/bart_start.jpg">
 </div>
 <br>
 
-### Bart is a little guy who loves his food
+### Bart is a little guy who loves his food and explores this world he shares with his human
 <div>
 <img src="https://raw.githubusercontent.com/ruiyangge/ruiyangge.github.io/main/images/bart07.jpg">
 </div>
@@ -30,25 +30,31 @@ title: Gallery
 </div>
 <br>
 
-### He likes watching everything, this everything could be a bug
+### He is interested in everything, this everything could be a bug
 <div>
 <img src="https://raw.githubusercontent.com/ruiyangge/ruiyangge.github.io/main/images/bart05.jpg">
 </div>
 <br>
 
-### or a bird through a screen
+### or a cat rescue video
 <div>
-<img src="https://raw.githubusercontent.com/ruiyangge/ruiyangge.github.io/main/images/bart11.jpg">
+<img src="https://raw.githubusercontent.com/ruiyangge/ruiyangge.github.io/main/images/bart06.jpg">
 </div>
 <br>
 
-### He likes sitting next to me when I work at home
+### He likes sitting next to his human when his human work at home
 <div>
 <img src="https://raw.githubusercontent.com/ruiyangge/ruiyangge.github.io/main/images/b3.jpg">
 </div>
 <br>
 
-### He sleeps next to me almost every day and night, I assume I'm his favourite human being
+### Sometimes he likes to keep a distance
+<div>
+<img src="https://raw.githubusercontent.com/ruiyangge/ruiyangge.github.io/main/images/b1.jpg">
+</div>
+<br>
+
+### He sleeps next to his human almost every day and night, his human believes he should be Bart's favourite human being
 <div>
 <img src="https://raw.githubusercontent.com/ruiyangge/ruiyangge.github.io/main/images/b6.jpg">
 </div>
