@@ -45,6 +45,8 @@ links:
     url: /grants/
   - title: Service
     url: /service/
+  - title: Gallery
+    url: /gallery/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: Canada/Vancouver
