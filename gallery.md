@@ -9,9 +9,9 @@ title: Gallery
 
 ## My best furiend Bart
 
-### Bart is a 4-year old furiend
+### Bart is a 4.5-year-old furiend, he has been living with his human roommie for nearly four years.
 
-### I came across this sweet furiend in the Facebook page of <i>[Endless Pawsabilities Rescue Society](https://www.facebook.com/endlesspawsabilitiesrescuesociety)</i>. I vividly remember my heart melting the moment I saw his photos.
+### His roommie came across this sweet furiend in the Facebook page of <i>[Endless Pawsabilities Rescue Society](https://www.facebook.com/endlesspawsabilitiesrescuesociety)</i>. His roommie vividly remember his heart melting the moment he saw Bart's photos online.
 <div>
 <img src="https://raw.githubusercontent.com/ruiyangge/ruiyangge.github.io/main/images/bart_start.jpg">
 </div>
@@ -23,13 +23,13 @@ title: Gallery
 </div>
 <br>
 
-### but sometimes he shows interests to human food
+### sometimes he shows interests to human food
 <div>
 <img src="https://raw.githubusercontent.com/ruiyangge/ruiyangge.github.io/main/images/bart09.jpg">
 </div>
 <br>
 
-### He is interested in everything, this everything could be a bug
+### He is curious about everything, this everything could be a bug
 <div>
 <img src="https://raw.githubusercontent.com/ruiyangge/ruiyangge.github.io/main/images/bart05.jpg">
 </div>
@@ -53,67 +53,67 @@ title: Gallery
 </div>
 <br>
 
-### Sometimes he likes to keep a distance
+### sometimes he likes to keep a distance
 <div>
 <img src="https://raw.githubusercontent.com/ruiyangge/ruiyangge.github.io/main/images/cat2.jpg">
 </div>
 <br>
 
-### He sometimes likes to ask for a scratch on his head
+### He often enjoys asking for head scratches
 <div>
 <img src="https://raw.githubusercontent.com/ruiyangge/ruiyangge.github.io/main/images/cat7.jpg">
 </div>
 <br>
 
-### sometimes he just wants to walk away
+### sometimes he just prefers to walk away
 <div>
 <img src="https://raw.githubusercontent.com/ruiyangge/ruiyangge.github.io/main/images/cat6.jpg">
 </div>
 <br>
 
-### However, he would run to his human when his human arrives home
+### He would run to greet his human when his human arrives home
 <div>
 <img src="https://raw.githubusercontent.com/ruiyangge/ruiyangge.github.io/main/images/cat1.jpg">
 </div>
 <br>
 
-### Bart sort of loves the bed his human bought for him
+### Bart enjoys using the bed his human bought for him for about one week each year
 <div>
 <img src="https://raw.githubusercontent.com/ruiyangge/ruiyangge.github.io/main/images/cat5.jpg">
 </div>
 <br>
 
-### but most of the time, he only needs a paper box
+### most of the time, he only needs a paper box
 <div>
 <img src="https://raw.githubusercontent.com/ruiyangge/ruiyangge.github.io/main/images/bart123.jpg">
 </div>
 <br>
 
-### He sleeps next to his human almost every night, his human believes he should be Bart's favourite human being
+### He sleeps next to his human almost every night, leading his human to believe they must be Bart's most favorite human being
 <div>
 <img src="https://raw.githubusercontent.com/ruiyangge/ruiyangge.github.io/main/images/b6.jpg">
 </div>
 <br>
 
-### He loves staring at his human when his human is in washroom 
+### He loves to stare at his human while his human is in the washroom
 <div>
 <img src="https://raw.githubusercontent.com/ruiyangge/ruiyangge.github.io/main/images/bart.jpg">
 </div>
 <br>
 
-### or when his human is in a bath
+### or when his human is talking a bath
 <div>
 <img src="https://raw.githubusercontent.com/ruiyangge/ruiyangge.github.io/main/images/bart10.jpg">
 </div>
 <br>
 
-### He could be an evil 
+### He could be an evil at times
 <div>
 <img src="https://raw.githubusercontent.com/ruiyangge/ruiyangge.github.io/main/images/cat3.jpg">
 </div>
 <br>
 
-### but his human cannot resist his cuteness
+### but his human can never resist his irresistible cuteness
 <div>
 <img src="https://raw.githubusercontent.com/ruiyangge/ruiyangge.github.io/main/images/cat8.jpg">
 </div>
