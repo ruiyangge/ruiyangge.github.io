@@ -7,10 +7,9 @@ title: Gallery
 
 > Please support the [Endless Pawsabilities Rescue Society](https://www.endless-pawsabilities.org/?fbclid=IwY2xjawH1PbRleHRuA2FlbQIxMAABHZA0EOM4NK2fYjd45nllmHlLPLURq49KQFQzVvLOES8_rlIwy5LvzyiBJA_aem_mUPbPz9B0Di2JbS2aFD3AQ) and [Richmond Regional Animal Protection Society Cat Sanctuary](https://catsanctuary.ca/)!
 
-## I share photos of my best furiend Bart Ge from time to time
+## My best furiend Bart Ge
 
 ### Bart is a 4-year old furiend
-
 
 ### I came across this furiend in the Facebook page of <i>[Endless Pawsabilities Rescue Society](https://www.facebook.com/endlesspawsabilitiesrescuesociety)</i>. I vividly remember my heart melting the moment I saw his photos.
 <div>
@@ -18,13 +17,13 @@ title: Gallery
 </div>
 <br>
 
-### Bart is a little guy who loves his food and explores this world he shares with his human
+### Bart is a little guy who loves his food
 <div>
 <img src="https://raw.githubusercontent.com/ruiyangge/ruiyangge.github.io/main/images/bart07.jpg">
 </div>
 <br>
 
-### Sometimes he shows interests to human food
+### but sometimes he shows interests to human food
 <div>
 <img src="https://raw.githubusercontent.com/ruiyangge/ruiyangge.github.io/main/images/bart09.jpg">
 </div>
@@ -42,7 +41,13 @@ title: Gallery
 </div>
 <br>
 
-### He likes sitting next to his human when his human work at home
+### or some random birds outside the windows
+<div>
+<img src="https://raw.githubusercontent.com/ruiyangge/ruiyangge.github.io/main/images/cat4.jpg">
+</div>
+<br>
+
+### He likes sitting next to his human when his human works from home
 <div>
 <img src="https://raw.githubusercontent.com/ruiyangge/ruiyangge.github.io/main/images/b3.jpg">
 </div>
@@ -50,11 +55,41 @@ title: Gallery
 
 ### Sometimes he likes to keep a distance
 <div>
-<img src="https://raw.githubusercontent.com/ruiyangge/ruiyangge.github.io/main/images/b1.jpg">
+<img src="https://raw.githubusercontent.com/ruiyangge/ruiyangge.github.io/main/images/cat2.jpg">
 </div>
 <br>
 
-### He sleeps next to his human almost every day and night, his human believes he should be Bart's favourite human being
+### He sometimes likes to ask for a scratch on his head
+<div>
+<img src="https://raw.githubusercontent.com/ruiyangge/ruiyangge.github.io/main/images/cat7.jpg">
+</div>
+<br>
+
+### sometimes he just wants to walk away
+<div>
+<img src="https://raw.githubusercontent.com/ruiyangge/ruiyangge.github.io/main/images/cat6.jpg">
+</div>
+<br>
+
+### However, he would run to his human when his human arrives home
+<div>
+<img src="https://raw.githubusercontent.com/ruiyangge/ruiyangge.github.io/main/images/cat1.jpg">
+</div>
+<br>
+
+### Bart sort of loves the bed his human bought for him
+<div>
+<img src="https://raw.githubusercontent.com/ruiyangge/ruiyangge.github.io/main/images/cat5.jpg">
+</div>
+<br>
+
+### but most of the time, he only needs a paper box
+<div>
+<img src="https://raw.githubusercontent.com/ruiyangge/ruiyangge.github.io/main/images/bart123.jpg">
+</div>
+<br>
+
+### He sleeps next to his human almost every night, his human believes he should be Bart's favourite human being
 <div>
 <img src="https://raw.githubusercontent.com/ruiyangge/ruiyangge.github.io/main/images/b6.jpg">
 </div>
@@ -71,5 +106,18 @@ title: Gallery
 <img src="https://raw.githubusercontent.com/ruiyangge/ruiyangge.github.io/main/images/bart10.jpg">
 </div>
 <br>
+
+### He could be an evil 
+<div>
+<img src="https://raw.githubusercontent.com/ruiyangge/ruiyangge.github.io/main/images/cat3.jpg">
+</div>
+<br>
+
+### but his human cannot resist his cuteness
+<div>
+<img src="https://raw.githubusercontent.com/ruiyangge/ruiyangge.github.io/main/images/cat8.jpg">
+</div>
+<br>
+
 
 
