@@ -8,8 +8,8 @@ title: Background
 
 ## Employment
 
-- 2021 - present: **Research Associate**, Department of Psychiatry, UBC, Canada <br> Advisor: Dr. Sophia Frangou
-- 2016 - 2020: **Postdoctoral Research Fellow**, Department of Psychiatry, UBC, Canada <br> Advisor: Dr. Fidel Vila-Rodriguez<br>
+- 2021 - present: **Research Associate**, Department of Psychiatry, UBC, Canada <br> Supervior: Dr. Sophia Frangou
+- 2016 - 2020: **Postdoctoral Research Fellow**, Department of Psychiatry, UBC, Canada <br> Supervior: Dr. Fidel Vila-Rodriguez<br>
 
 
 ## Education
