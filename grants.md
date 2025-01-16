@@ -16,9 +16,10 @@ title: Grants and Distinctions
 
 ## Distinctions and Awards <small><i>(last 5 years)</i></small>
 
-- Apr 2022, **Travel Fellowship Award – Early Career Investigator Program**, The Society for Biological Psychiatry, $2,000 USD
-- Jul 2020, **Marshall Fellowship**, Institute of Mental Health, UBC, $75,000 CAD
-- Feb 2019, **Outstanding Poster Award**, The 3rd International Brain Stimulation Conference, $500 USD
-- 2019 - 2020, **Innovative Fund Trainee Award**, Djavad Mowafaghian Centre for Brain Health, UBC, $10,000 CAD
+- Apr 2022, **Travel Fellowship Award – Early Career Investigator Program** ($2,000 USD), The 77th Annual Meeting of Society for Biological Psychiatry (SOBP),  New Orleans, LA, USA
+- Jul 2020, **Marshall Fellowship** ($75,000 CAD), Institute of Mental Health, UBC, Vancouver, BC, Canada
+- 2019 - 2020, **Innovative Fund Trainee Award** ($10,000 CAD), Djavad Mowafaghian Centre for Brain Health, UBC, Vancouver, BC, Canada 
+- Feb 2019, **Outstanding Poster Award** ($500 USD), The Third International Brain Stimulation Conference, Vancouver, BC, Canada
+
 
 <br>
