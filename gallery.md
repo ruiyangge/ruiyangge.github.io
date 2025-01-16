@@ -17,13 +17,13 @@ title: Gallery
 </div>
 <br>
 
-### Bart is a little guy who loves his food and explores this world he shares with his human
+### Bart is a little guy who loves his food
 <div>
 <img src="https://raw.githubusercontent.com/ruiyangge/ruiyangge.github.io/main/images/bart07.jpg">
 </div>
 <br>
 
-### Sometimes he shows interests to human food
+### but sometimes he shows interests to human food
 <div>
 <img src="https://raw.githubusercontent.com/ruiyangge/ruiyangge.github.io/main/images/bart09.jpg">
 </div>
