@@ -8,25 +8,25 @@ title: Talks
 Please see my [CV](https://drive.google.com/file/d/10FFTr2lbn81pHSaw2r7xNfhODr1nfW_1/view) for an up-to-date list.
 
 - 04/2025 (planned), "The Link Between Brain Development and Trajectories of Youth Mental Health: Initial Insights from Longitudinal Community and Clinical Cohorts"<br>
-  Symposium @ The 80th Society of Biological Psychiatry Annual Meeting, Toronto, Ontario, Canada<br>
+  Symposium @ The 80th Society of Biological Psychiatry (SOBP) Annual Meeting, Toronto, Ontario, Canada<br>
   Chairs: Erin Dickie and Stephanie Ameis<br>
   Role: Speaker<br>
 - 04/2025 (planned), "Normative Brain Modelling in Different Ethnoracial Groups, Depression, and Schizophrenia Spectrum Disorders"<br>
-  Symposium @ The 80th Society of Biological Psychiatry Annual Meeting, Toronto, Ontario, Canada<br>
+  Symposium @ The 80th SOBP Annual Meeting, Toronto, Ontario, Canada<br>
   Chairs: Sophia Frangou and Mahavir Agarwal<br>
   Role: Speaker<br>
 - 12/2024, Normative Modeling and Statistics Session<br>
   ENIGMA Developmental Working Group Leadership Summit, Amsterdam, The Netherlands<br>
   Role: Moderator and speaker<br>
 - 06/2024, "Normative Brain Modeling and Mood Disorders"<br>
-  Faculty lecture @ Department of Psychiatry Research Day, UBC, Vancouver, BC, Canada<br>
+  Faculty lecture @ UBC Department of Psychiatry Research Day, Vancouver, BC, Canada<br>
   Role: Speaker<br>
 - 05/2024, "Personalizing Neuroimaging: Methodological Advances and Scientific Insights on Normative Modeling"<br>
-  Symposium @ The 79th Society of Biological Psychiatry Annual Meeting, Austin Austin, Texas, US<br>
+  Symposium @ The 79th SOBP Annual Meeting, Austin Austin, Texas, US<br>
   Chair: Sophia Frangou<br>
   Role: Speaker<br>
 - 03/2024, "Brain-age prediction with brain morphometry"<br>
-  MR Seminar Series, Department of Radiology, UBC, Vancouver, BC, Canada<br>
+  MR Seminar Series, UBC Department of Radiology, Vancouver, BC, Canada<br>
   Role: Speaker<br>
 - 12/2023, "CentileBrain models: An introduction"<br>
   [The Translational Neuroimaging Educational Program](https://www.translational-neuro.org/)<br>
