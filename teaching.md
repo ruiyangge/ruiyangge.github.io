@@ -12,7 +12,7 @@ Please see my [CV](https://drive.google.com/file/d/10FFTr2lbn81pHSaw2r7xNfhODr1n
 - 2022 - present, **Research Mentor**, Yuetong Yu<br>
   Student’s Current Position: PhD Candidate<br>
   Student’s Current Institution: Department of Psychiatry, University of British Columbia (UBC)<br>
-  Student's Primary Supervisor: Dr. Sophia Frangou.<br>
+  Student's Primary Supervisor: Dr. Sophia Frangou<br>
 - 2023 - present, **Research Mentor**, Julian Camillo Becerra Leon<br>
   Student’s Current Position: PhD Candidate<br>
   Student’s Current Institution: Department of Psychiatry, UBC<br>
