@@ -17,7 +17,6 @@ I am a data scientist and biomedical engineer with specialized training and expe
 - Machine Learning
 - Youth Mental Health
 - Personalized Neuroimaging
-- Precision Psychiatry
 - Therapeutic Neuromodulation
 
 I am a data scientist and biomedical engineer with specialized training and expertise in computational psychiatry and neuroimaging. My research is to integrate data science, artificial intelligence, and neuroimaging, to facilitate new discoveries in the pathophysiology of mental illness and inform clinical decision making. With a strong emphasis on the translational applications of neuroimaging, I develop and implement advanced computational models to support precision diagnostics and interventions, and lead an educational program to advance the translational use of neuroimaging techniques in brain health.
