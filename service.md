@@ -56,7 +56,7 @@ title: Service
   Scientific Reports;<br>
   Schizophrenia Bulletin</i><br>
   Total number of reviews: >50
-  <br>
+  
 - 2018 - present, regular reviewer for the <i>Annual Meeting of the Organization of Human Brain Mapping</i><br>
   Total number of reviews: >100
 
