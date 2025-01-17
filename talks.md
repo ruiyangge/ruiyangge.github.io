@@ -21,6 +21,9 @@ Please see my [CV](https://drive.google.com/file/d/10FFTr2lbn81pHSaw2r7xNfhODr1n
 - **06/2024**, **"Normative Brain Modeling And Mood Disorders"** <br>
   Faculty lecture @ [UBC Department of Psychiatry Research Day](https://psychiatry.ubc.ca/research/2024-research-day/), Vancouver, BC, Canada<br>
   Role: **Speaker**<br>
+- **06/2024**, **"CentileBrain脑形态测量规范建模及应用"**<br>
+  Invited talk @ [NeuroChat 2024 of the Tianqiao & Chrissy Chen Institute (TCCI)](https://www.tmtpost.com/watch/7127389)<br>
+  Role: **Speaker**<br>
 - **05/2024**, **"Personalizing Neuroimaging: Methodological Advances And Scientific Insights On Normative Modeling"** <br>
   Symposium @ [The 79th SOBP Annual Meeting](https://pmg.joynadmin.org/documents/1036/66397cae2036d74f70327fd2.pdf), Austin, Texas, USA<br>
   Chair: Sophia Frangou<br>
