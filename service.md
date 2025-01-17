@@ -5,6 +5,8 @@ title: Service
 ---
 > Update: Jan 2025
 
+Please see my [CV](https://drive.google.com/file/d/10FFTr2lbn81pHSaw2r7xNfhODr1nfW_1/view) for an up-to-date list.
+
 ## Administrative Activity
 - 2023 - present, **Director**, [Translational Neuroimaging Educational Program](https://www.translational-neuro.org)
 - 2023, **Co-organizer**, Annual OHBM Chinese Young Scholars Event @ Annual Meeting of the [Organization for Human Brain Mapping](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=1)
