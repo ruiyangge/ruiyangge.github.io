@@ -6,24 +6,24 @@ title: Service
 > Update: Jan 2025
 
 ## Administrative Activity
-- 2023 - present, Director, [Translational Neuroimaging Educational Program](https://www.translational-neuro.org)
-- 2023, Co-organizer, Annual OHBM Chinese Young Scholars Event @ 2023 Annual Meeting of the [Organization for Human Brain Mapping](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=1)
+- 2023 - present, **Director**, [Translational Neuroimaging Educational Program](https://www.translational-neuro.org)
+- 2023, **Co-organizer**, Annual OHBM Chinese Young Scholars Event @ 2023 Annual Meeting of the [Organization for Human Brain Mapping](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=1)
 
 ## Editorial Service
-- 2024 – present, Associate Editor, Mental Health Science
-- 2023 – 2024, Guest Editor, BMC Neurology
-- 2023 – present, Editorial Board Member, npj Mental Health Research
-- 2022 – present, Editorial Board Member, BMC Psychiatry
-- 2019 – present, Review Editor, Frontiers in Neuroimaging; Frontiers in Neuroscience; Frontiers in Psychiatry
-- In launching, Editorial Board Member, MedLife
+- 2024 – present, **Associate Editor**, Mental Health Science
+- 2023 – 2024, **Guest Editor**, BMC Neurology
+- 2023 – present, **Editorial Board Member**, npj Mental Health Research
+- 2022 – present, **Editorial Board Member**, BMC Psychiatry
+- 2019 – present, **Review Editor**, Frontiers in Neuroimaging; Frontiers in Neuroscience; Frontiers in Psychiatry
+- In launching, **Editorial Board Member**, MedLife
 
 ## Professional Association
-- 2021 – present, Member, Society of Biological Psychiatry (SOBP)
-- 2021 - present, Member, Enhancing NeuroImaging Genetics through Meta-Analysis (ENIGMA) Consortium
-- 2017 – present, Member, Organization for Human Brain Mapping (OHBM)
+- 2021 – present, **Member**, Society of Biological Psychiatry (SOBP)
+- 2021 - present, **Member**, Enhancing NeuroImaging Genetics through Meta-Analysis (ENIGMA) Consortium
+- 2017 – present, **Member**, Organization for Human Brain Mapping (OHBM)
 
 ## Peer Review Activity
-- 2015 - present, regular reviewer for journals:<br>
+- 2015 - present, **reviewer** for journals:<br>
   <i>American Journal of Psychiatryl;<br>
   Biological Psychiatry;<br>
   BJPsych Open;<br>
@@ -56,7 +56,7 @@ title: Service
   Scientific Reports;<br>
   Schizophrenia Bulletin</i><br>
   **Total number of reviews: >50**
-- 2018 - present, regular reviewer for the <i>Annual Meeting of the Organization of Human Brain Mapping</i><br>
+- 2018 - present, **reviewer** for the <i>Annual Meeting of the Organization of Human Brain Mapping</i><br>
   **Total number of reviews: >100**
 
 <br>
