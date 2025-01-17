@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /service/index.html
-title: Service
+permalink: /teaching/index.html
+title: Teaching
 ---
 > Update: Jan 2025
 
