@@ -24,7 +24,7 @@ title: Service
 
 ## Peer Review Activity
 - 2015 - present, **Reviewer** for journals:<br>
-  <i>American Journal of Psychiatryl;<br>
+  <i>American Journal of Psychiatry;<br>
   Biological Psychiatry;<br>
   BJPsych Open;<br>
   BMJ Open;<br>
