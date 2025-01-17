@@ -5,60 +5,82 @@ title: Teaching
 ---
 > Update: Jan 2025
 
-## Administrative Activity
-- 2023 - present, Director, [Translational Neuroimaging Educational Program](https://www.translational-neuro.org)
-- 2023, Co-organizer, Annual OHBM Chinese Young Scholars Event @ 2023 Annual Meeting of the [Organization for Human Brain Mapping](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=1)
+## Research Mentorship
+### Graduate Students
+- 2022 - present, **Research Mentor**, Yuetong Yu<br>
+  Student’s Current Position: PhD Candidate<br>
+  Student’s Current Institution: Department of Psychiatry, University of British Columbia (UBC)<br>
+  Student's Primary Supervisor: Dr. Sophia Frangou.<br>
+- 2023 - present, **Research Mentor**, Julian Camillo Becerra Leon<br>
+  Student’s Current Position: PhD Candidate<br>
+  Student’s Current Institution: Department of Psychiatry, UBC<br>
+  Student's Primary Supervisor: Dr. Sophia Frangou<br>
+- 2019 - 2020, **Research Mentor**, Yanmei Shen<br>
+  Student’s Current Position: Physician<br>
+  Student’s Current Position: The Second Xiangya Hospital, Central South University, China<br>
+  Student’s Previous Institution: Department of Psychiatry, The Second Xiangya Hospital of Central South University<br>
+  Student’s Primary Supervisor: Dr. Xuerong Luo<br>
+- 2018 - 2020, **Research Mentor**, Xiang Liu<br>
+  Student’s Current Position: Industry<br>
+  Student’s Previous Institution: Department of Psychiatry, UBC<br>
+  Student’s Primary Supervisor: Dr. Fidel Vila-Rodriguez
 
-## Editorial Service
-- 2024 – present, Associate Editor, Mental Health Science
-- 2023 – 2024, Guest Editor, BMC Neurology
-- 2023 – present, Editorial Board Member, npj Mental Health Research
-- 2022 – present, Editorial Board Member, BMC Psychiatry
-- 2019 – present, Review Editor, Frontiers in Neuroimaging; Frontiers in Neuroscience; Frontiers in Psychiatry
-- In launching, Editorial Board Member, MedLife
+### Undergraduate Students
+- 2023 – present, **Primary Supervisor**, Hao-Qi Cui<br>
+  Student’s Current Position: Undergraduate<br>
+  Student’s Previous Institution: Department of Computer Science, UBC<br>
+- 2023 – present, **Primary Supervisor**, Shiyu Chen<br>
+  Student’s Current Position: Industry<br>
+  Student’s Previous Institution: Department of Computer Science, UBC<br>
+- 2021 – 2022, **Primary Supervisor**, Yi Xuan Qi<br>
+  Student’s Current Position: Industry<br>
+  Student’s Previous Institution: Department of Computer Science, UBC<br>
+- 2021 - 2022, **Primary Supervisor**, Yuetong Yu<br>
+  Student’s Current Position: PhD Candidate<br>
+  Student’s Current Institution: Department of Psychiatry, UBC<br>
+  Student’s Previous Institution: Department of Mathematics, UBC<br>
+- 2021, **Primary Supervisor**, Chuntong Gao<br>
+  Student’s Current Position: Industry<br>
+  Student’s Previous Institution: Department of Computer Science, UBC<br>
+- 2021, **Primary Supervisor**, Yunan (Vera) Fan<br>
+  Student’s Current Position: MSc Student<br>
+  Student’s Current Institution: Imperial College London<br>
+  Student’s Previous Institution: Department of Computer Science, UBC<br>
+- 2019 - 2020, **Primary Supervisor**, Tyler Keeling<br>
+  Student’s Current Position: Industry<br>
+  Student’s Previous Institution: Department of Computer Science, UBC<br>
+- 2019 - 2020, **Primary Supervisor**, Shiqing Ding<br>
+  Student’s Current Position: Industry<br>
+  Student’s Previous Institution: Department of Mathematics, UBC<br>
+- 2017 - 2018, **Primary Supervisor**, Xiang Liu<br>
+  Student’s Current Position: Industry<br>
+  Student’s Previous Institution: Department of Computer Science, UBC<br>
+- 2017 - 2018, **Research Mentor**, Paul Kot<br>
+  Student’s Current Position: Industry<br>
+  Student’s Previous Institution: Department of Physics, UBC<br>
+  Student's Primary Supervisor: Dr. Fidel Vila-Rodriguez<br>
+- 2014 - 2015, **Research Mentor**, Yubao Wang<br>
+  Student’s Current Position: Industry<br>
+  Student’s Previous Institution: State Key Laboratory of Cognitive Neuroscience and Learning, Beijing Normal University (BNU)<br>
+  Student’s Primary Supervisor: Dr. Zhiying Long<br>
+- 2014 - 2015, **Research Mentor**, Jipeng Zhang<br>
+  Student’s Current Position: Industry<br>
+  Student’s Previous Institution: School of Artificial Intelligence, BNU<br>
+  Student’s Primary Supervisor: Dr. Li Yao<br>
 
-## Professional Associations
-- 2021 – present, Member, Society of Biological Psychiatry (SOBP)
-- 2021 - present, Member, Enhancing NeuroImaging Genetics through Meta-Analysis (ENIGMA) Consortium
-- 2017 – present, Member, Organization for Human Brain Mapping (OHBM)
 
-## Peer Review Activities
-- 2015 - present, regular reviewer for journals:<br>
-  <i>American Journal of Psychiatryl;<br>
-  Biological Psychiatry;<br>
-  BJPsych Open;<br>
-  BMJ Open;<br>
-  Brain Imaging and Behavior;<br>
-  Brain Structure and Function;<br>
-  Cerebral Cortex;<br>
-  Computational and Mathematical Methods in Medicine;<br>
-  European Psychiatry;<br>
-  Frontiers in Psychiatry;<br>
-  Human Brain Mapping;<br>
-  IEEE Journal of Biomedical and Health Informatics;<br>
-  Imaging Neuroscience;<br>
-  Journal of Affective Disorders;<br>
-  Journal of Affective Disorders Reports;<br>
-  Journal of Medical Imaging and Health Informatics;<br>
-  Journal of Neuroscience Methods;<br>
-  Metabolic Brain Disease;<br>
-  Molecular Psychiatry;<br>
-  Nature Mental Health;<br>
-  NeuroImage;<br>
-  Neuropsychologia;<br>
-  Neuropsychopharmacology;<br>
-  Neuroscience and Biobehavioral Reviews;<br>
-  npj Digital Medicine;<br>
-  Psychiatry and Clinical Neurosciences;<br>
-  Psychiatry Research;<br>
-  Psychological Medicine;<br>
-  Quantitative Imaging in Medicine and Surgery;<br>
-  Scientific Reports;<br>
-  Schizophrenia Bulletin</i><br>
-  Total number of reviews: >50
-- 2018 - present, regular reviewer for the <i>Annual Meeting of the Organization of Human Brain Mapping</i><br>
-  Total number of reviews: >100
-
+## Teaching
+- Spring Term 2014, **Lecturer**<br>
+  Undergraduate Course: Fundamentals of Digital Electronics, School of Artificial Intelligence, BNU<br>
+- Fall Term 2013, **Lecturer**<br>
+  Undergraduate Course: Fundamentals of Digital Electronics, School of Artificial Intelligence, BNU<br>
+- 2013, **Instructor**<br>
+  Real-time Functional MRI Symposium, International Symposium on Frontiers in Functional Brain Imaging, BNU<br>
+- 2012,**Instructor**<br>
+  Functional Connectivity and Networks Analysis Methods Workshop, IDG/McGovern Institute for Brain Research, BNU<br>
+- Fall Term 2011, **Teaching Assistant**<br>
+  Undergraduate Course: Fundamentals of Digital Electronics, School of Artificial Intelligence, BNU<br>
+  
 <br>
 
 
