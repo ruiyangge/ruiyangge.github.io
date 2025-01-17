@@ -5,6 +5,8 @@ title: Grants and Distinctions
 ---
 
 > Update: Jan 2025
+> 
+Please see my [CV](https://drive.google.com/file/d/10FFTr2lbn81pHSaw2r7xNfhODr1nfW_1/view) for an up-to-date list.
 
 ## Grants <small><i>(last 5 years)</i></small>
 
