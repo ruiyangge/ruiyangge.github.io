@@ -23,7 +23,7 @@ title: Service
 - 2017 – present, **Member**, Organization for Human Brain Mapping (OHBM)
 
 ## Peer Review Activity
-- 2015 - present, **reviewer** for journals:<br>
+- 2015 - present, **Reviewer** for journals:<br>
   <i>American Journal of Psychiatryl;<br>
   Biological Psychiatry;<br>
   BJPsych Open;<br>
@@ -55,8 +55,9 @@ title: Service
   Quantitative Imaging in Medicine and Surgery;<br>
   Scientific Reports;<br>
   Schizophrenia Bulletin</i><br>
-  **Total number of reviews: >50**
-- 2018 - present, **reviewer** for the <i>Annual Meeting of the Organization of Human Brain Mapping</i><br>
+  **Total number of reviews: 80**
+  
+- 2018 - present, **Reviewer** for the <i>Annual Meeting of the Organization of Human Brain Mapping</i><br>
   **Total number of reviews: >100**
 
 <br>
