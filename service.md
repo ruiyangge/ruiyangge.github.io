@@ -22,6 +22,10 @@ title: Service
 - 2021 - present, **Member**, Enhancing NeuroImaging Genetics through Meta-Analysis (ENIGMA) Consortium
 - 2017 – present, **Member**, Organization for Human Brain Mapping (OHBM)
 
+## Committee and Service Contribution
+- 2022, **Judge**,PATHS to a Cure: Neuroscience Research Conference, Parkinson’s and Alzheimer’s Targeted Hope and Support (PATHS), UBC
+- 2018, **Honor Thesis Examining Committee** for Farhad Ghaseminejad, UBC 
+
 ## Peer Review Activity
 - 2015 - present, **Reviewer** for journals:<br>
   <i>American Journal of Psychiatry;<br>
