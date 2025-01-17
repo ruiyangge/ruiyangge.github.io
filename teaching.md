@@ -17,7 +17,7 @@ title: Teaching
   Student's Primary Supervisor: Dr. Sophia Frangou<br>
 - 2019 - 2020, **Research Mentor**, Yanmei Shen<br>
   Student’s Current Position: Physician<br>
-  Student’s Current Position: The Second Xiangya Hospital, Central South University, China<br>
+  Student’s Current Position: The Second Xiangya Hospital, Central South University<br>
   Student’s Previous Institution: Department of Psychiatry, The Second Xiangya Hospital of Central South University<br>
   Student’s Primary Supervisor: Dr. Xuerong Luo<br>
 - 2018 - 2020, **Research Mentor**, Xiang Liu<br>
