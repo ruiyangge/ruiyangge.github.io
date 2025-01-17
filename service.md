@@ -55,7 +55,7 @@ title: Service
   Quantitative Imaging in Medicine and Surgery;<br>
   Scientific Reports;<br>
   Schizophrenia Bulletin</i><br>
-  **Total number of reviews: 80**
+  **Total number of reviews: >80**
   
 - 2018 - present, **Reviewer** for the <i>Annual Meeting of the Organization of Human Brain Mapping</i><br>
   **Total number of reviews: >100**
