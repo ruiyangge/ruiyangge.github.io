@@ -47,6 +47,7 @@ Please see my [CV](https://drive.google.com/file/d/10FFTr2lbn81pHSaw2r7xNfhODr1n
   Journal of Affective Disorders Reports;<br>
   Journal of Medical Imaging and Health Informatics;<br>
   Journal of Neuroscience Methods;<br>
+  Journal of Psychiatric Research;<br>
   Metabolic Brain Disease;<br>
   Molecular Psychiatry;<br>
   Nature Mental Health;<br>
