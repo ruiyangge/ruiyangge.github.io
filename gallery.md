@@ -83,7 +83,7 @@ title: Gallery
 </div>
 <br>
 
-### most of the time, he only needs a paper box
+### most of the time, he just needs a paper box
 <div>
 <img src="https://raw.githubusercontent.com/ruiyangge/ruiyangge.github.io/main/images/bart123.jpg">
 </div>
