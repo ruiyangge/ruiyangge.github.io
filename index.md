@@ -39,7 +39,7 @@ I am a data scientist and biomedical engineer with specialized training and expe
 
 
 <br>
-
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Just out in <a href="https://twitter.com/LancetDigitalH?ref_src=twsrc%5Etfw">@LancetDigitalH</a> , CentileBrain represents a pioneering tool offering normative models for anatomical brain measures. This new resource paves a way for enhanced detection of disorders associated with significant deviations in brain structure<a href="https://t.co/E0FBNu0xoO">https://t.co/E0FBNu0xoO</a></p>&mdash; GeRuiyang-蓋瑞洋 (@RuiyangGe) <a href="https://twitter.com/RuiyangGe/status/1760781807799378253?ref_src=twsrc%5Etfw">February 22, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <br>
 <div id="map-container" style="width: 30%; height: 0; padding-bottom: 56%; justify-content: center; position: relative;">
