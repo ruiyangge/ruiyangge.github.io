@@ -5,8 +5,6 @@ title: Teaching
 ---
 > Update: Jan 2025
 
-Please see my [CV](https://drive.google.com/file/d/10FFTr2lbn81pHSaw2r7xNfhODr1nfW_1/view) for an up-to-date list.
-
 ## Mentorship
 ### Graduate Students
 - 2022 - present, **Research Mentor**, Yuetong Yu<br>
