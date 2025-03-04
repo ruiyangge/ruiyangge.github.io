@@ -77,7 +77,7 @@ title: Gallery
 </div>
 <br>
 
-### Bart enjoys using the bed his human bought for him for about one week each year
+### Bart enjoys using the bed his human bought for him for about 3 days per year
 <div>
 <img src="https://raw.githubusercontent.com/ruiyangge/ruiyangge.github.io/main/images/cat5.jpg">
 </div>
