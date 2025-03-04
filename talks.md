@@ -5,7 +5,6 @@ title: Talks
 ---
 > Update: Jan 2025
 
-Please see my [CV](https://drive.google.com/file/d/10FFTr2lbn81pHSaw2r7xNfhODr1nfW_1/view) for an up-to-date list.
 
 - **04/2025** (planned), **"The Link Between Brain Development and Trajectories Of Youth Mental Health: Initial Insights From Longitudinal Community and Clinical Cohorts"** <br>
   Symposium @ [The 80th Society of Biological Psychiatry (SOBP) Annual Meeting](https://sobp.org/2025-sobp-annual-meeting/), Toronto, Ontario, Canada<br>
