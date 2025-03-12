@@ -3,7 +3,7 @@ layout: page
 permalink: /teaching/index.html
 title: Teaching
 ---
-> Update: Jan 2025
+> Update: Feb 2025
 
 
 ## Mentorship
