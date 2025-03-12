@@ -3,7 +3,7 @@ layout: page
 permalink: /gallery/index.html
 title: Gallery
 ---
-> Update: Jan 2025
+> Update: Feb 2025
 
 > Please support the [Endless Pawsabilities Rescue Society](https://www.endless-pawsabilities.org/?fbclid=IwY2xjawH1PbRleHRuA2FlbQIxMAABHZA0EOM4NK2fYjd45nllmHlLPLURq49KQFQzVvLOES8_rlIwy5LvzyiBJA_aem_mUPbPz9B0Di2JbS2aFD3AQ) and [Richmond Regional Animal Protection Society Cat Sanctuary](https://catsanctuary.ca/)!
 
