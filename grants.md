@@ -4,7 +4,7 @@ permalink: /grants/index.html
 title: Grants and Distinctions
 ---
 
-> Update: Jan 2025
+> Update: Feb 2025
 
 
 ## Grants <small><i>(last 5 years)</i></small>
