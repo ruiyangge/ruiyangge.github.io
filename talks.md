@@ -3,7 +3,7 @@ layout: page
 permalink: /talks/index.html
 title: Talks
 ---
-> Update: Jan 2025
+> Update: Feb 2025
 
 
 - **04/2025** (planned), **"The Link Between Brain Development and Trajectories Of Youth Mental Health: Initial Insights From Longitudinal Community and Clinical Cohorts"** <br>
