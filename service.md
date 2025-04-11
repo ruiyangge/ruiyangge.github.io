@@ -64,7 +64,7 @@ title: Service
   **Total number of reviews: >80**
   
 - 2025 - present, **Reviewer** for grants:<br>
-  <i>UK Research and Innovation;<br>
+  <i>UK Research and Innovation<br>
   
 - 2018 - present, **Reviewer** for the <i>Annual Meeting of the Organization of Human Brain Mapping</i><br>
   **Total number of reviews: >100**
