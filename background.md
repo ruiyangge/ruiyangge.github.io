@@ -16,7 +16,7 @@ Please see my [CV](https://drive.google.com/file/d/1wAMYS4C_vo1rDl85lGDACyqbA2ys
 
 ## Education
 
-- 2010 - 2015: **Doctorate**, Computer Science, School of Artificial Intelligence & State Key Laboratory of Cognitive Neuroscience and Learning, Beijing Normal University, Beijing, P.R. China. <br>Advisors: Drs. Li Yao and Zhiying Long
+- 2010 - 2015: **Doctorate**, Computer Science, School of Artificial Intelligence & State Key Laboratory of Cognitive Neuroscience and Learning & IDG/McGovern Institute for Brain Research, Beijing Normal University, Beijing, P.R. China. <br>Advisors: Drs. Li Yao and Zhiying Long
 - 2006 - 2010: **Bachelor**, Biomedical Engineering, School of Computer and Information Technology, Beijing Jiaotong University, Beijing, P.R. China.
 
 <br>
