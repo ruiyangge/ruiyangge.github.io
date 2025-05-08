@@ -3,7 +3,7 @@ layout: page
 permalink: /teaching/index.html
 title: Teaching
 ---
-> Update: Feb 2025
+> Update: May 2025
 
 
 ## Mentorship
@@ -27,9 +27,15 @@ title: Teaching
   Student’s Primary Supervisor: Dr. Fidel Vila-Rodriguez
 
 ### Undergraduate Students
+- 2025 – present, **Primary Supervisor**, Andrew Li<br>
+  Student’s Current Position: Undergraduate<br>
+  Student’s Current Institution: School of Biomedical Engineering, UBC<br>
+- 2025 – present, **Primary Supervisor**, Kevin Du<br>
+  Student’s Current Position: Undergraduate<br>
+  Student’s Current Institution: School of Biomedical Engineering, UBC<br>
 - 2023 – present, **Primary Supervisor**, Hao-Qi Cui<br>
   Student’s Current Position: Undergraduate<br>
-  Student’s Previous Institution: Department of Computer Science, UBC<br>
+  Student’s Current Institution: Department of Computer Science, UBC<br>
 - 2023 – present, **Primary Supervisor**, Shiyu Chen<br>
   Student’s Current Position: Industry<br>
   Student’s Previous Institution: Department of Computer Science, UBC<br>
@@ -78,7 +84,7 @@ title: Teaching
   Undergraduate Course: Fundamentals of Digital Electronics, School of Artificial Intelligence, BNU<br>
 - 2013, **Instructor**<br>
   Real-time Functional MRI Symposium, International Symposium on Frontiers in Functional Brain Imaging, BNU<br>
-- 2012,**Instructor**<br>
+- 2012, **Instructor**<br>
   Functional Connectivity and Networks Analysis Methods Workshop, IDG/McGovern Institute for Brain Research, BNU<br>
 - Fall Term 2011, **Teaching Assistant**<br>
   Undergraduate Course: Fundamentals of Digital Electronics, School of Artificial Intelligence, BNU<br>
