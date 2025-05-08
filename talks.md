@@ -9,6 +9,7 @@ title: Talks
 - **05/2025**, **"Advancing Precision Psychiatry through Data Science"** <br>
   Research Seminar @ Djavad Mowafaghian Centre for Brain Health, University of British Columbia, Vancouver, BC, Canada<br>
   Moderator: Dr. Todd Woodward<br>
+  Role: **Speaker**<br>
 - **04/2025**, **"The Link Between Brain Development and Trajectories Of Youth Mental Health: Initial Insights From Longitudinal Community and Clinical Cohorts"** <br>
   Symposium @ [The 80th Society of Biological Psychiatry (SOBP) Annual Meeting](https://sobp.org/2025-sobp-annual-meeting/), Toronto, Ontario, Canada<br>
   Chairs: Dr. Erin Dickie and Dr. Stephanie Ameis<br>
