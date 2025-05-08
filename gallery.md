@@ -3,13 +3,13 @@ layout: page
 permalink: /gallery/index.html
 title: Gallery
 ---
-> Update: Feb 2025
+> Update: May 2025
 
 > Please support the [Endless Pawsabilities Rescue Society](https://www.endless-pawsabilities.org/?fbclid=IwY2xjawH1PbRleHRuA2FlbQIxMAABHZA0EOM4NK2fYjd45nllmHlLPLURq49KQFQzVvLOES8_rlIwy5LvzyiBJA_aem_mUPbPz9B0Di2JbS2aFD3AQ) and [Richmond Regional Animal Protection Society Cat Sanctuary](https://catsanctuary.ca/)!
 
 ## Best furiend Bart
 
-### Bart is a 4.5-year-old furiend, he has been living with his human roommie for nearly four years.
+### Bart is a 5-year-old furiend, he has been living with his human roommie for four years.
 
 ### His roommie came across this sweet furiend in the Facebook page of <i>[Endless Pawsabilities Rescue Society](https://www.facebook.com/endlesspawsabilitiesrescuesociety)</i>. His roommie vividly remember his heart melting the moment he saw Bart's photos online.
 <div>
