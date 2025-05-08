@@ -89,7 +89,7 @@ title: Gallery
 </div>
 <br>
 
-### He sleeps next to his human almost every night, leading his human to believe they must be Bart's most favorite human being
+### He sleeps next to his human almost every night, leading his human to believe he must be Bart's most favorite human being
 <div>
 <img src="https://raw.githubusercontent.com/ruiyangge/ruiyangge.github.io/main/images/b6.jpg">
 </div>
@@ -101,7 +101,7 @@ title: Gallery
 </div>
 <br>
 
-### or when his human is talking a bath
+### or when his human is taking a bath
 <div>
 <img src="https://raw.githubusercontent.com/ruiyangge/ruiyangge.github.io/main/images/bart10.jpg">
 </div>
