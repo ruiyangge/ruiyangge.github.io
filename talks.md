@@ -3,16 +3,19 @@ layout: page
 permalink: /talks/index.html
 title: Talks
 ---
-> Update: Feb 2025
+> Update: May 2025
 
 
-- **04/2025** (planned), **"The Link Between Brain Development and Trajectories Of Youth Mental Health: Initial Insights From Longitudinal Community and Clinical Cohorts"** <br>
+- **05/2025**, **"Advancing Precision Psychiatry through Data Science"** <br>
+  Research Seminar @ Djavad Mowafaghian Centre for Brain Health, University of British Columbia, Vancouver, BC, Canada<br>
+  Moderator: Dr. Todd Woodward<br>
+- **04/2025**, **"The Link Between Brain Development and Trajectories Of Youth Mental Health: Initial Insights From Longitudinal Community and Clinical Cohorts"** <br>
   Symposium @ [The 80th Society of Biological Psychiatry (SOBP) Annual Meeting](https://sobp.org/2025-sobp-annual-meeting/), Toronto, Ontario, Canada<br>
-  Chairs: Erin Dickie and Stephanie Ameis<br>
+  Chairs: Dr. Erin Dickie and Dr. Stephanie Ameis<br>
   Role: **Speaker**<br>
-- **04/2025** (planned), **"Normative Brain Modelling in Different Ethnoracial Groups, Depression, And Schizophrenia Spectrum Disorders"** <br>
+- **04/2025**, **"Normative Brain Modelling in Different Ethnoracial Groups, Depression, And Schizophrenia Spectrum Disorders"** <br>
   Symposium @ [The 80th Society of Biological Psychiatry (SOBP) Annual Meeting](https://sobp.org/2025-sobp-annual-meeting/), Toronto, Ontario, Canada<br>
-  Chairs: Sophia Frangou and Mahavir Agarwal<br>
+  Chairs: Dr. Sophia Frangou and Dr. Mahavir Agarwal<br>
   Role: **Speaker**<br>
 - **12/2024**, **Normative Modeling And Statistics Session** <br>
   ENIGMA Developmental Working Group Leadership Summit, Amsterdam, The Netherlands<br>
