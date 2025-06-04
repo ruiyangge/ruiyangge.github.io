@@ -26,6 +26,7 @@ I am a data scientist and biomedical engineer with specialized training and expe
 
 ## News and Updates
 
+- **April 2025**: We successfully organized an educational session and participated in two symposia at the 2025 Society of Biological Psychiatry (SOBP) Annual Meeting.
 - **Feb 2025**: I will be giving a talk titled "CentileBrain: Normative Brain Modeling and Applications in Psychiatric Disorders" on Feb 6th as part of the [UBC IMH PROGRESS Webinar Series](https://psychiatry.ubc.ca/centilebrain-normative-brain-modeling-and-applications-in-psychiatric-disorders/).
 - **Jan 2025**: Our work on personlized neuroimaging for mental health has been highlighted at [UBC Medicine PATHWAYS](https://pathwaysmagazine.med.ubc.ca/snapshots/personalized-solutions-for-youth-mental-health).
 - **Jan 2025**: Our Translational Neuroimaging Educational Program has been awarded a Special Projects Funding for the [Society of Biological Psychiatry (SOBP) Annual Meeting](https://sobp.org/2025-sobp-annual-meeting/). See you in Toronto in April 2025!
