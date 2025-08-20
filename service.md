@@ -24,13 +24,14 @@ title: Service
 - 2017 – present, **Member**, Organization for Human Brain Mapping (OHBM)
 
 ## Committee and Service Contribution
-- 2022, **Judge**,PATHS to a Cure: Neuroscience Research Conference, Parkinson’s and Alzheimer’s Targeted Hope and Support (PATHS), UBC
+- 2022, **Judge**, PATHS to a Cure: Neuroscience Research Conference, Parkinson’s and Alzheimer’s Targeted Hope and Support (PATHS), UBC
 - 2018, **Honor Thesis Examining Committee** for Farhad Ghaseminejad, UBC 
 
 ## Peer Review Activity
 - 2015 - present, **Reviewer** for journals:<br>
   <i>American Journal of Psychiatry;<br>
   Biological Psychiatry;<br>
+  Biological Psychiatry:CNNI;<br>
   BJPsych Open;<br>
   BMJ Open;<br>
   Brain Imaging and Behavior;<br>
@@ -61,7 +62,7 @@ title: Service
   Quantitative Imaging in Medicine and Surgery;<br>
   Scientific Reports;<br>
   Schizophrenia Bulletin</i><br>
-  **Total number of reviews: >80**
+  **Total number of reviews: >100**
   
 - 2025 - present, **Reviewer** for grants:<br>
   <i>UK Research and Innovation<br>
