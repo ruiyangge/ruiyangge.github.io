@@ -66,6 +66,7 @@ title: Service
   
 - 2025 - present, **Reviewer** for grants:<br>
   <i>UK Research and Innovation<br>
+  <i>Wellcome Funding Early-Career Award<br>
   
 - 2018 - present, **Reviewer** for the <i>Annual Meeting of the Organization of Human Brain Mapping</i><br>
   **Total number of reviews: >100**
