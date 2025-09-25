@@ -4,8 +4,8 @@ permalink: /background/index.html
 title: Background
 ---
 
-> Update: Feb 2025<br>
-Please see my [CV](https://drive.google.com/file/d/1wAMYS4C_vo1rDl85lGDACyqbA2ys5VQL/view) for an up-to-date list.
+> Update: Sep 2025<br>
+Please see my [CV](https://drive.google.com/file/d/1QMDt024uznTgmltubLqF1PpneC5ZOb0V/view?usp=sharing) for an up-to-date list.
 
 
 ## Employment
