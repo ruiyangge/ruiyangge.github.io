@@ -11,6 +11,7 @@ title: Service
 - 2023, **Co-organizer**, Annual OHBM Chinese Young Scholars Event @ Annual Meeting of the [Organization for Human Brain Mapping](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=1)
 
 ## Editorial Service
+- 2025 – present, **Editorial Board Member**, BMC Medicine
 - 2024 – present, **Associate Editor**, Mental Health Science
 - 2023 – 2024, **Guest Editor**, BMC Neurology
 - 2023 – present, **Editorial Board Member**, npj Mental Health Research
@@ -38,6 +39,8 @@ title: Service
   Brain Structure and Function;<br>
   Cerebral Cortex;<br>
   Computational and Mathematical Methods in Medicine;<br>
+  Current Neuropharmacology; <br>
+  European Child & Adolescent Psychiatry; <br>
   European Psychiatry;<br>
   Frontiers in Psychiatry;<br>
   Human Brain Mapping;<br>
@@ -52,10 +55,12 @@ title: Service
   Molecular Psychiatry;<br>
   Nature Mental Health;<br>
   NeuroImage;<br>
+  Neuromodulation; <br>
   Neuropsychologia;<br>
   Neuropsychopharmacology;<br>
   Neuroscience and Biobehavioral Reviews;<br>
   npj Digital Medicine;<br>
+  Plos One; <br>
   Psychiatry and Clinical Neurosciences;<br>
   Psychiatry Research;<br>
   Psychological Medicine;<br>
