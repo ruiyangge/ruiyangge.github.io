@@ -26,6 +26,7 @@ I am a data scientist and biomedical engineer with specialized training and expe
 
 ## News and Updates
 
+- **Sep 2025**: Our [CentileBrain project](https://centilebrain.org/) has been awarded a [NIMH R01](https://taggs.hhs.gov/Detail/AwardDetail?arg_AwardNum=R01MH134962&arg_ProgOfficeCode=134)! 
 - **Aug 2025**: Our collaboration "Episode-specific cortical functional connectome reorganization and neurobiological correlates in bipolar disorder: a cross-sectional study" has been published online in [BMC Medicine](https://link.springer.com/article/10.1186/s12916-025-04277-7) (5-year IF=9.4)! Huge congratulations to Xiaobo on this fantastic achievement!
 - **June 2025**: The [Translational Neuroimaging Educational Program](https://www.translational-neuro.org/) has reached more than 3,000 participants across 70+ countries! 
 - **April 2025**: We successfully organized an educational session and participated in two symposia at the 2025 Society of Biological Psychiatry (SOBP) Annual Meeting.
