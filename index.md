@@ -6,7 +6,7 @@ layout: page
 
 ## Ruiyang Ge (蓋瑞洋), PhD
 <br>
-I am a data scientist and biomedical engineer with specialized training and expertise in computational psychiatry and neuroinformatics. I am affiliated with the [Department of Psychiatry](https://psychiatry.ubc.ca/) and the [Djavad Mowafaghian Centre for Brain Health](https://www.centreforbrainhealth.ca/) at the [University of British Columbia](https://www.ubc.ca/).
+I am a neuroscientist and data scientist with specialized training and expertise in computational psychiatry and neuroinformatics. I am affiliated with the [Department of Psychiatry](https://psychiatry.ubc.ca/) and the [Djavad Mowafaghian Centre for Brain Health](https://www.centreforbrainhealth.ca/) at the [University of British Columbia](https://www.ubc.ca/).
 <br>
 
 ---
@@ -14,7 +14,7 @@ I am a data scientist and biomedical engineer with specialized training and expe
 ## Research Interests
 - Computational Psychiatry
 - Neuroinformatics
-- Machine Learning
+- Machine Learning/AI
 - Youth Mental Health
 - Personalized Neuroimaging
 - Therapeutic Neuromodulation
@@ -26,6 +26,7 @@ I am a data scientist and biomedical engineer with specialized training and expe
 
 ## News and Updates
 
+- **Aug 2025**: Our collaboration "Episode-specific cortical functional connectome reorganization and neurobiological correlates in bipolar disorder: a cross-sectional study" has been published online in [BMC Medicine](https://link.springer.com/article/10.1186/s12916-025-04277-7) (5-year IF=9.4)! 
 - **April 2025**: We successfully organized an educational session and participated in two symposia at the 2025 Society of Biological Psychiatry (SOBP) Annual Meeting.
 - **Feb 2025**: I will be giving a talk titled "CentileBrain: Normative Brain Modeling and Applications in Psychiatric Disorders" on Feb 6th as part of the [UBC IMH PROGRESS Webinar Series](https://psychiatry.ubc.ca/centilebrain-normative-brain-modeling-and-applications-in-psychiatric-disorders/).
 - **Jan 2025**: Our work on personlized neuroimaging for mental health has been highlighted at [UBC Medicine PATHWAYS](https://pathwaysmagazine.med.ubc.ca/snapshots/personalized-solutions-for-youth-mental-health).
@@ -36,7 +37,7 @@ I am a data scientist and biomedical engineer with specialized training and expe
 - **June 2024**: Our co-authored paper "Brain responses to intermittent fasting and the healthy living diet in older adults" has been published online in [Cell Metabolism](https://www.cell.com/cell-metabolism/fulltext/S1550-4131(24)00225-0) (5-year IF=31.2).
 - **March 2024**: Our CentileBrain Initiative has been highlighted by the [Brain & Behavior Research Foundation](https://bbrfoundation.org/content/imaging-based-normative-model-healthy-brain-promises-significantly-advance-mental-illness).
 - **March 2024**: Our CentileBrain technical paper "Normative modelling of brain morphometry across the lifespan with CentileBrain: algorithm benchmarking and model optimisation" has been published online in [Lancet Digital Health](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(23)00250-9/fulltext?goal=0_fb7d503c0e-6575838914-162581909) (5-year IF=27.7)!
-- **Jan 2024**: Our collaboration with the ENIGMA 22q11DS Working Group "Source-based morphometry reveals structural brain pattern abnormalities in 22q11.2 deletion syndrome" has been published online in [Human Brain Mapping](https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.26553) (5-year IF=4.7)! 
+
 
 
 <br>
