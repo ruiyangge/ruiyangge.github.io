@@ -26,7 +26,8 @@ I am a data scientist and biomedical engineer with specialized training and expe
 
 ## News and Updates
 
-- **Aug 2025**: Our collaboration "Episode-specific cortical functional connectome reorganization and neurobiological correlates in bipolar disorder: a cross-sectional study" has been published online in [BMC Medicine](https://link.springer.com/article/10.1186/s12916-025-04277-7) (5-year IF=9.4)! 
+- **Aug 2025**: Our collaboration "Episode-specific cortical functional connectome reorganization and neurobiological correlates in bipolar disorder: a cross-sectional study" has been published online in [BMC Medicine](https://link.springer.com/article/10.1186/s12916-025-04277-7) (5-year IF=9.4)! Huge congratulations to Xiaobo on this fantastic achievement!
+- **June 2025**: The [Translational Neuroimaging Educational Program](https://www.translational-neuro.org/) has reached more than 3,000 participants across 70+ countries! 
 - **April 2025**: We successfully organized an educational session and participated in two symposia at the 2025 Society of Biological Psychiatry (SOBP) Annual Meeting.
 - **Feb 2025**: I will be giving a talk titled "CentileBrain: Normative Brain Modeling and Applications in Psychiatric Disorders" on Feb 6th as part of the [UBC IMH PROGRESS Webinar Series](https://psychiatry.ubc.ca/centilebrain-normative-brain-modeling-and-applications-in-psychiatric-disorders/).
 - **Jan 2025**: Our work on personlized neuroimaging for mental health has been highlighted at [UBC Medicine PATHWAYS](https://pathwaysmagazine.med.ubc.ca/snapshots/personalized-solutions-for-youth-mental-health).
