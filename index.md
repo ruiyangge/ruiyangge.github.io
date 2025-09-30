@@ -19,7 +19,7 @@ I am a biomedical engineer and a neuroscientist with specialized training and ex
 - Personalized Neuroimaging
 - Therapeutic Neuromodulation
 
-I am a data scientist and biomedical engineer with specialized training and expertise in computational psychiatry and neuroimaging. My research sits at the intersection of biomedical informatics, data science, and precision mental health. With a background in biomedical engineering (B.Eng.) and computer science (Ph.D.), I develop computational methods that transform complex, multi-scale health data, including neuroimaging, physiological signals, and healthcare data, into actionable insights and tools for healthcare delivery and public health. The long-term goal of my research is to advance precision and translational biomedical informatics.
+I am a data scientist and biomedical engineer with specialized training and expertise in computational psychiatry and neuroengineering. My research sits at the intersection of biomedical informatics, data science, and precision mental health. With a background in biomedical engineering (B.Eng.) and computer science (Ph.D.), I develop computational methods that transform complex, multi-scale health data, including neuroimaging, physiological signals, and healthcare data, into actionable insights and tools for healthcare delivery and public health. The long-term goal of my research is to advance precision and translational biomedical informatics.
 
 
 ---
