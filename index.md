@@ -6,7 +6,7 @@ layout: page
 
 ## Ruiyang Ge (蓋瑞洋), PhD
 <br>
-I am a neuroscientist and data scientist with specialized training and expertise in computational psychiatry and neuroinformatics. I am affiliated with the [Department of Psychiatry](https://psychiatry.ubc.ca/) and the [Djavad Mowafaghian Centre for Brain Health](https://www.centreforbrainhealth.ca/) at the [University of British Columbia](https://www.ubc.ca/).
+I am a biomedical engineer and a neuroscientist with specialized training and expertise in computational psychiatry and neuroinformatics. I am affiliated with the [Department of Psychiatry](https://psychiatry.ubc.ca/) and the [Djavad Mowafaghian Centre for Brain Health](https://www.centreforbrainhealth.ca/) at the [University of British Columbia](https://www.ubc.ca/).
 <br>
 
 ---
@@ -14,7 +14,7 @@ I am a neuroscientist and data scientist with specialized training and expertise
 ## Research Interests
 - Computational Psychiatry
 - Neuroinformatics
-- Machine Learning/AI
+- AI/Machine Learning
 - Youth Mental Health
 - Personalized Neuroimaging
 - Therapeutic Neuromodulation
