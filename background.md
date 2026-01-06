@@ -9,7 +9,7 @@ title: Background
 
 ## Employment
 
-- 2021 - present: **Research Associate Scientist**, Department of Psychiatry, UBC, Canada <br> Supervior: Dr. Sophia Frangou
+- 2021 - present: **Research Associate Scientist**, Department of Psychiatry, UBC, Canada <br> 
 
 
 ## Education
