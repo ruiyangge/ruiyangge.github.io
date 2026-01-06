@@ -5,7 +5,6 @@ title: Background
 ---
 
 > Update: Sep 2025<br>
-Please see my [CV](https://drive.google.com/file/d/1QMDt024uznTgmltubLqF1PpneC5ZOb0V/view?usp=sharing) for an up-to-date list.
 
 
 ## Employment
