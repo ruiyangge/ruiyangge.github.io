@@ -6,6 +6,9 @@ title: Talks
 > Update: May 2025
 
 
+- **03/2026**, **"From Brain Data to Individualized Decision: AI-Driven Precision Brain Health"** <br>
+  Research Seminar @ Centre for Cognitive and Brain Sciences, University of Macau<br>
+  Role: **Speaker**<br>
 - **05/2025**, **"Advancing Precision Psychiatry through Data Science"** <br>
   Research Seminar @ Djavad Mowafaghian Centre for Brain Health, University of British Columbia, Vancouver, BC, Canada<br>
   Moderator: Dr. Todd Woodward<br>
