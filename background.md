@@ -10,13 +10,14 @@ title: Background
 ## Employment
 
 - 2027: **Associated Professor (Tenured)**, Institute of Artificial Intelligence and Brain Sciences, UM, Macau SAR <br>
-- 2021 - present: **Research Scientist**, Department of Psychiatry, UBC, Canada <br> 
+- 2021 - present: **Research Scientist**, Department of Psychiatry, University of British Columbia, Canada <br> 
 
 
-## Education
+## Education and Training
 
-- **Doctorate**, Computer Science, School of Artificial Intelligence & State Key Laboratory of Cognitive Neuroscience and Learning & IDG/McGovern Institute for Brain Research, Beijing Normal University, Beijing, P.R. China. <br>Advisors: Drs. Li Yao and Zhiying Long
-- **Bachelor**, Biomedical Engineering, School of Computer and Information Technology, Beijing Jiaotong University, Beijing, P.R. China.
+- **Postdoc**, Computational Brain Health, Department of Psychiatry, University of British Columbia, Canada <br>
+- **Doctorate**, Computer Science, School of Artificial Intelligence & State Key Laboratory of Cognitive Neuroscience and Learning & IDG/McGovern Institute for Brain Research, Beijing Normal University, Beijing, P.R. China <br>
+- **Bachelor**, Biomedical Engineering, School of Computer and Information Technology, Beijing Jiaotong University, Beijing, P.R. China
 
 <br>
 
