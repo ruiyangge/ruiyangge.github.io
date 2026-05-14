@@ -11,17 +11,17 @@ title: Service
 - 2023, **Co-organizer**, Annual OHBM Chinese Young Scholars Event @ Annual Meeting of the [Organization for Human Brain Mapping](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=1)
 
 ## Editorial Service
+- 2026 – present, **Editorial Board Member**, PLOS Aging and Health
 - 2025 – present, **Editorial Board Member**, BMC Medicine
 - 2024 – present, **Associate Editor**, Mental Health Science
 - 2023 – 2024, **Guest Editor**, BMC Neurology
 - 2023 – present, **Editorial Board Member**, npj Mental Health Research
 - 2022 – present, **Editorial Board Member**, BMC Psychiatry
 - 2019 – present, **Review Editor**, Frontiers in Neuroimaging; Frontiers in Neuroscience; Frontiers in Psychiatry
-- In launching, **Editorial Board Member**, MedLife
 
 ## Professional Association
-- 2021 – present, **Member**, Society of Biological Psychiatry (SOBP)
-- 2021 - present, **Member**, Enhancing NeuroImaging Genetics through Meta-Analysis (ENIGMA) Consortium
+- 2020 – present, **Member**, Society of Biological Psychiatry (SOBP)
+- 2020 - present, **Member**, Enhancing NeuroImaging Genetics through Meta-Analysis (ENIGMA) Consortium
 - 2017 – present, **Member**, Organization for Human Brain Mapping (OHBM)
 
 ## Committee and Service Contribution
@@ -69,7 +69,7 @@ title: Service
   Schizophrenia Bulletin</i><br>
   **Total number of reviews: >100**
   
-- 2025 - present, **Reviewer** for grants:<br>
+- 2024 - present, **Reviewer** for grants:<br>
   <i>UK Research and Innovation<br>
   <i>Wellcome Funding Early-Career Award<br>
   
