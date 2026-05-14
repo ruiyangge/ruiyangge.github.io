@@ -15,7 +15,7 @@ I am a biomedical engineer and a neuroscientist with specialized training and ex
 - Computational Psychiatry
 - Neuroinformatics
 - AI/Machine Learning
-- Youth Mental Health
+- Human Mental Health
 - Personalized Neuroimaging
 - Therapeutic Neuromodulation
 
