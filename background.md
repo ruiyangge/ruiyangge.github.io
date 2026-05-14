@@ -10,7 +10,7 @@ title: Background
 ## Employment
 
 - 2027: **Associated Professor (Tenured)**, Institute of Artificial Intelligence and Brain Sciences, UM, Macau SAR <br>
-- 2021 - present: **Research Scientist**, Department of Psychiatry, University of British Columbia, Canada <br> 
+- 2021 - 2026: **Research Scientist**, Department of Psychiatry, University of British Columbia, Canada <br> 
 
 
 ## Education and Training
