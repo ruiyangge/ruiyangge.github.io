@@ -24,6 +24,9 @@ I am a data scientist and biomedical engineer with specialized training and expe
 ---
 
 ## News and Updates
+
+<div class="news-box">
+<ul>
 <li>**May 2026**: Our work validating the generalizability of the CentileBrain models across ethnoracially diverse populations has been published in the [Proceedings of the National Academy of Sciences](https://www.pnas.org/doi/10.1073/pnas.2521055123) (5-year IF=10.6)! </li>
 <li>**Feb 2026**: Our work reviewing neuroimaging-derived brain age and subtyping in adolescent major depressive disorder has been published in [Neuroscience & Biobehavioral Reviews](https://www.sciencedirect.com/science/article/pii/S0149763426000618) (5-year IF=9.3) and [Nature Communications](https://www.nature.com/articles/s41467-026-69697-2) (5-year IF=17.2)! </li>
 <li>**Jan 2026**: We received an SOBP Special Project, see you at the 2026 SOBP Annual Meeting @ NYC. </li>
