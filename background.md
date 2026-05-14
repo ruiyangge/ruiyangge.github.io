@@ -15,7 +15,7 @@ title: Background
 
 ## Education and Training
 
-- **Postdoc**, Computational Brain Health, Department of Psychiatry, University of British Columbia, Canada <br>
+- **Postdoctoral Research Fellow**, Computational Brain Health, Department of Psychiatry, University of British Columbia, Canada <br>
 - **Doctorate**, Computer Science, School of Artificial Intelligence & State Key Laboratory of Cognitive Neuroscience and Learning & IDG/McGovern Institute for Brain Research, Beijing Normal University, Beijing, P.R. China <br>
 - **Bachelor**, Biomedical Engineering, School of Computer and Information Technology, Beijing Jiaotong University, Beijing, P.R. China
 
