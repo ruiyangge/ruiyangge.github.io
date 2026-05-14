@@ -22,6 +22,26 @@ I am a biomedical engineer and a neuroscientist with specialized training and ex
 I am a data scientist and biomedical engineer with specialized training and expertise in computational psychiatry and neuroengineering. My research sits at the intersection of biomedical informatics, data science, and precision mental health. With a background in biomedical engineering (B.Eng.) and computer science (Ph.D.), I develop computational methods that transform complex, multi-scale health data, including neuroimaging, physiological signals, and healthcare data, into actionable insights and tools for healthcare delivery and public health. The long-term goal of my research is to advance precision and translational biomedical informatics.
 
 
+
+## News and Updates
+
+<div class="news-box">
+
+<ul>
+<li><strong>May 2026:</strong> Our work validating the generalizability...</li>
+<li><strong>Feb 2026:</strong> Our work reviewing neuroimaging-derived brain age...</li>
+<li><strong>Jan 2026:</strong> We received an SOBP Special Project...</li>
+<li><strong>Oct 2025:</strong> I am honored to receive the ACNP Global Scholarship!</li>
+<li><strong>Sep 2025:</strong> Our CentileBrain project has been awarded a NIMH R01!</li>
+<li><strong>Aug 2025:</strong> Our collaboration ...</li>
+<li><strong>June 2025:</strong> The Translational Neuroimaging Educational Program...</li>
+<li><strong>April 2025:</strong> We successfully organized...</li>
+<li><strong>Feb 2025:</strong> I will be giving a talk...</li>
+</ul>
+
+</div>
+
+
 ---
 
 ## News and Updates
