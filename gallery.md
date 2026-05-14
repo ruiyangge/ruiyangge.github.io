@@ -59,31 +59,31 @@ title: Gallery
 </div>
 <br>
 
-### He often enjoys asking for head scratches
+### He often enjoys asking for a head scratch
 <div>
 <img src="https://raw.githubusercontent.com/ruiyangge/ruiyangge.github.io/main/images/cat7.jpg">
 </div>
 <br>
 
-### sometimes he just prefers to walk away
+### sometimes he prefers to just walk away
 <div>
 <img src="https://raw.githubusercontent.com/ruiyangge/ruiyangge.github.io/main/images/cat6.jpg">
 </div>
 <br>
 
-### He would run to greet his human when his human arrives home
+### He would run to greet his human when his human arrives home from a trip
 <div>
 <img src="https://raw.githubusercontent.com/ruiyangge/ruiyangge.github.io/main/images/cat1.jpg">
 </div>
 <br>
 
-### Bart enjoys using the bed his human bought for him for about 3 days per year
+### Bart enjoys using the bed his human bought for him for about 2 days per year
 <div>
 <img src="https://raw.githubusercontent.com/ruiyangge/ruiyangge.github.io/main/images/cat5.jpg">
 </div>
 <br>
 
-### most of the time, he just needs a paper box
+### he just needs a paper box
 <div>
 <img src="https://raw.githubusercontent.com/ruiyangge/ruiyangge.github.io/main/images/bart123.jpg">
 </div>
