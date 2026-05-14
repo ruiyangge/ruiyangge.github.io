@@ -6,7 +6,7 @@ layout: page
 
 ## Ruiyang Ge (蓋瑞洋), PhD
 <br>
-I am a biomedical engineer and a neuroscientist with specialized training and expertise in computational psychiatry and neuroinformatics. I am affiliated with the [Department of Psychiatry](https://psychiatry.ubc.ca/) and the [Djavad Mowafaghian Centre for Brain Health](https://www.centreforbrainhealth.ca/) at the [University of British Columbia](https://www.ubc.ca/). I will be joining University of Macau as a Tenured Associate Professor at the end of 2026.
+I am a biomedical engineer and a neuroscientist with specialized training and expertise in computational psychiatry and neuroinformatics. I am affiliated with the [Department of Psychiatry](https://psychiatry.ubc.ca/) and the [Djavad Mowafaghian Centre for Brain Health](https://www.centreforbrainhealth.ca/) at the [University of British Columbia](https://www.ubc.ca/). I will be joining [University of Macau](https://www.um.edu.mo/) as a Tenured Associate Professor at the end of 2026.
 <br>
 
 ---
