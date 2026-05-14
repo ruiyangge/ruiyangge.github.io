@@ -2,7 +2,7 @@
 layout: page
 ---
 
-<img src="https://ruiyangge.github.io/ruiyangge.jpg" class="floatpic">
+<img src="https://ruiyangge.github.io/ruiyangge_new.jpg" class="floatpic">
 
 ## Ruiyang Ge (蓋瑞洋), PhD
 <br>
