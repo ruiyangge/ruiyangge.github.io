@@ -8,7 +8,7 @@ title: Talks
 ## Selected Talks <small><i>(last 5 years)</i></small>
 
 - **06/2026**, **"Building Normative Neuroimaging Models across Lifespan: Scaling from Population Data to Personalized Brain Health Predictions"** <br>
-  Symposia @ OHBM 2026 Annual Meeting, Bordeaux, France<br>
+  Symposium @ OHBM 2026 Annual Meeting, Bordeaux, France<br>
   Role: **Speaker**<br>
 - **03/2026**, **"From Brain Data to Individualized Decision: AI-Driven Precision Brain Health"** <br>
   Research Seminar @ Centre for Cognitive and Brain Sciences, University of Macau<br>
