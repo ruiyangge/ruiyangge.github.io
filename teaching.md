@@ -13,8 +13,7 @@ title: Teaching
   Student’s Current Institution: Department of Psychiatry, University of British Columbia (UBC)<br>
   Student's Primary Supervisor: Dr. Sophia Frangou<br>
 - 2023 - 2025, **Research Mentor**, Julian Camillo Becerra Leon<br>
-  Student’s Current Position: PhD Candidate<br>
-  Student’s Current Institution: Department of Psychiatry, UBC<br>
+  Student’s Institution: Department of Psychiatry, UBC<br>
   Student's Primary Supervisor: Dr. Sophia Frangou<br>
 - 2019 - 2020, **Research Mentor**, Yanmei Shen<br>
   Student’s Current Position: Physician<br>
