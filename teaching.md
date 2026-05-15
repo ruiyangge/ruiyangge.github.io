@@ -27,10 +27,10 @@ title: Teaching
 
 ### UBC Applied Science Co-op Program
 - 2026 – present, **Primary Supervisor**, Andrew Li<br>
-  Student’s Current Position: Undergraduate<br>
+  Student’s Current Position: Undergraduate Co-op Student<br>
   Student’s Current Institution: School of Biomedical Engineering, UBC<br>
 - 2026 – present, **Primary Supervisor**, Kevin Du<br>
-  Student’s Current Position: Undergraduate<br>
+  Student’s Current Position: Undergraduate Co-op Student<br>
   Student’s Current Institution: School of Biomedical Engineering, UBC<br>
 
 ### Undergraduate Students
