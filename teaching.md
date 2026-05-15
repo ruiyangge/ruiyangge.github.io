@@ -3,7 +3,7 @@ layout: page
 permalink: /teaching/index.html
 title: Teaching
 ---
-> Update: May 2025
+> Update: May 2026
 
 
 ## Mentorship
@@ -12,7 +12,7 @@ title: Teaching
   Student’s Current Position: PhD Candidate<br>
   Student’s Current Institution: Department of Psychiatry, University of British Columbia (UBC)<br>
   Student's Primary Supervisor: Dr. Sophia Frangou<br>
-- 2023 - present, **Research Mentor**, Julian Camillo Becerra Leon<br>
+- 2023 - 2025, **Research Mentor**, Julian Camillo Becerra Leon<br>
   Student’s Current Position: PhD Candidate<br>
   Student’s Current Institution: Department of Psychiatry, UBC<br>
   Student's Primary Supervisor: Dr. Sophia Frangou<br>
@@ -26,17 +26,25 @@ title: Teaching
   Student’s Previous Institution: Department of Psychiatry, UBC<br>
   Student’s Primary Supervisor: Dr. Fidel Vila-Rodriguez
 
+### UBC Applied Science Co-op Program
+- 2026 – present, **Primary Supervisor**, Andrew Li<br>
+  Student’s Current Position: Undergraduate<br>
+  Student’s Current Institution: School of Biomedical Engineering, UBC<br>
+- 2026 – present, **Primary Supervisor**, Kevin Du<br>
+  Student’s Current Position: Undergraduate<br>
+  Student’s Current Institution: School of Biomedical Engineering, UBC<br>
+
 ### Undergraduate Students
-- 2025 – present, **Primary Supervisor**, Andrew Li<br>
+- 2025 – 2026, **Primary Supervisor**, Andrew Li<br>
   Student’s Current Position: Undergraduate<br>
   Student’s Current Institution: School of Biomedical Engineering, UBC<br>
-- 2025 – present, **Primary Supervisor**, Kevin Du<br>
+- 2025 – 2026, **Primary Supervisor**, Kevin Du<br>
   Student’s Current Position: Undergraduate<br>
   Student’s Current Institution: School of Biomedical Engineering, UBC<br>
-- 2023 – present, **Primary Supervisor**, Hao-Qi Cui<br>
+- 2023 – 2025, **Primary Supervisor**, Hao-Qi Cui<br>
   Student’s Current Position: Undergraduate<br>
   Student’s Current Institution: Department of Computer Science, UBC<br>
-- 2023 – present, **Primary Supervisor**, Shiyu Chen<br>
+- 2023 – 2024, **Primary Supervisor**, Shiyu Chen<br>
   Student’s Current Position: Industry<br>
   Student’s Previous Institution: Department of Computer Science, UBC<br>
 - 2021 – 2022, **Primary Supervisor**, Yi Xuan Qi<br>
