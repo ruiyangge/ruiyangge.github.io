@@ -9,6 +9,7 @@ title: Talks
 
 - **06/2026**, **"Building Normative Neuroimaging Models across Lifespan: Scaling from Population Data to Personalized Brain Health Predictions"** <br>
   Symposium @ OHBM 2026 Annual Meeting, Bordeaux, France<br>
+  Organizers: Dr. Jean-Charles Roy and Dr. Gunter Schumann<br>
   Role: **Speaker**<br>
 - **03/2026**, **"From Brain Data to Individualized Decision: AI-Driven Precision Brain Health"** <br>
   Research Seminar @ Centre for Cognitive and Brain Sciences, University of Macau<br>
