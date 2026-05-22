@@ -25,6 +25,7 @@ title: Service
 - 2017 – present, **Member**, Organization for Human Brain Mapping (OHBM)
 
 ## Committee and Service Contribution
+- 2026 - present, **Member**, Travel Award Committee, Society of Biological Psychiatry (SOBP)
 - 2022, **Judge**, PATHS to a Cure: Neuroscience Research Conference, Parkinson’s and Alzheimer’s Targeted Hope and Support (PATHS), UBC
 - 2018, **Honor Thesis Examining Committee** for Farhad Ghaseminejad, UBC 
 
