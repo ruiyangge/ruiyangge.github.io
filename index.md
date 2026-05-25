@@ -12,10 +12,10 @@ I am a biomedical engineer and a computational neuroscientist with specialized t
 ---
 
 ## Research Interests
-- Computational Psychiatry
-- Neuroinformatics
 - AI/Machine Learning
+- Computational Psychiatry
 - Human Mental Health
+- Neuroinformatics
 - Personalized Neuroimaging
 - Therapeutic Neuromodulation
 
