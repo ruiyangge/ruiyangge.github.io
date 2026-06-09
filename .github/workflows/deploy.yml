@@ -1,0 +1,27 @@
+name: Deploy Jekyll site
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.2'
+          bundler-cache: true
+
+      - run: bundle exec jekyll build
+
+      - name: Deploy to public repo
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          personal_token: ${{ secrets.DEPLOY_TOKEN }}
+          external_repository: ruiyangge/ruiyangge.github.io
+          publish_branch: main
+          publish_dir: ./_site
